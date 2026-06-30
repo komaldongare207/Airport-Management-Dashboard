@@ -1,0 +1,3001 @@
+airline_code,airline_name,total_flights,on_time_filghts,delayes_flights,cancelled_filghts
+AI,Air India,296,250,15,31
+SG,SpiceJet,170,99,54,17
+AI,Air India,169,151,18,0
+UK,Vistara,171,107,43,21
+6E,IndiGo,135,123,9,3
+AI,Air India,97,61,25,11
+AI,Air India,91,51,11,29
+AI,Air India,237,161,36,40
+SG,SpiceJet,130,123,0,7
+6E,IndiGo,151,95,29,27
+6E,IndiGo,150,93,50,7
+AI,Air India,147,125,15,7
+QP,Akasa Air,167,96,0,71
+QP,Akasa Air,212,190,17,5
+AI,Air India,64,33,9,22
+QP,Akasa Air,116,95,21,0
+UK,Vistara,299,273,13,13
+AI,Air India,120,79,3,38
+6E,IndiGo,78,39,24,15
+AI,Air India,79,56,6,17
+SG,SpiceJet,136,118,18,0
+SG,SpiceJet,192,141,18,33
+AI,Air India,230,164,35,31
+6E,IndiGo,264,239,9,16
+6E,IndiGo,269,195,4,70
+AI,Air India,164,123,27,14
+UK,Vistara,258,186,38,34
+UK,Vistara,244,210,1,33
+6E,IndiGo,190,114,53,23
+UK,Vistara,74,59,10,5
+6E,IndiGo,102,101,1,0
+AI,Air India,209,155,0,54
+SG,SpiceJet,68,55,7,6
+UK,Vistara,261,209,6,46
+AI,Air India,240,153,71,16
+AI,Air India,245,133,104,8
+6E,IndiGo,262,205,35,22
+AI,Air India,155,111,34,10
+AI,Air India,50,45,0,5
+SG,SpiceJet,216,183,32,1
+6E,IndiGo,161,126,30,5
+SG,SpiceJet,293,196,92,5
+6E,IndiGo,134,111,17,6
+6E,IndiGo,227,133,52,42
+QP,Akasa Air,132,78,13,41
+AI,Air India,164,163,0,1
+AI,Air India,157,136,4,17
+6E,IndiGo,88,45,13,30
+UK,Vistara,194,193,0,1
+QP,Akasa Air,266,183,74,9
+QP,Akasa Air,211,147,36,28
+SG,SpiceJet,179,173,5,1
+6E,IndiGo,156,88,30,38
+SG,SpiceJet,51,26,4,21
+QP,Akasa Air,115,92,1,22
+6E,IndiGo,211,193,14,4
+AI,Air India,85,74,7,4
+AI,Air India,110,108,1,1
+AI,Air India,139,80,25,34
+AI,Air India,217,156,61,0
+QP,Akasa Air,246,126,28,92
+AI,Air India,247,227,5,15
+SG,SpiceJet,129,85,21,23
+UK,Vistara,224,187,32,5
+6E,IndiGo,183,109,54,20
+SG,SpiceJet,251,244,2,5
+AI,Air India,198,100,65,33
+QP,Akasa Air,112,83,16,13
+6E,IndiGo,108,64,25,19
+SG,SpiceJet,63,56,1,6
+SG,SpiceJet,98,56,8,34
+6E,IndiGo,63,57,2,4
+AI,Air India,170,97,50,23
+UK,Vistara,265,256,9,0
+QP,Akasa Air,227,121,9,97
+SG,SpiceJet,255,133,18,104
+AI,Air India,225,162,55,8
+AI,Air India,118,112,3,3
+SG,SpiceJet,77,38,39,0
+UK,Vistara,74,43,19,12
+SG,SpiceJet,127,118,4,5
+QP,Akasa Air,175,160,0,15
+QP,Akasa Air,244,166,4,74
+6E,IndiGo,88,69,18,1
+SG,SpiceJet,274,158,76,40
+SG,SpiceJet,63,56,7,0
+UK,Vistara,249,247,1,1
+UK,Vistara,223,153,13,57
+6E,IndiGo,155,108,29,18
+QP,Akasa Air,118,67,34,17
+AI,Air India,129,117,5,7
+UK,Vistara,274,243,3,28
+UK,Vistara,161,83,19,59
+QP,Akasa Air,185,128,40,17
+6E,IndiGo,79,42,12,25
+AI,Air India,101,51,11,39
+QP,Akasa Air,110,70,10,30
+QP,Akasa Air,157,117,18,22
+QP,Akasa Air,189,187,0,2
+6E,IndiGo,98,49,28,21
+SG,SpiceJet,125,109,16,0
+QP,Akasa Air,257,221,15,21
+SG,SpiceJet,119,115,4,0
+AI,Air India,295,231,40,24
+UK,Vistara,140,91,30,19
+SG,SpiceJet,58,38,17,3
+6E,IndiGo,156,138,8,10
+AI,Air India,79,45,6,28
+SG,SpiceJet,114,58,3,53
+QP,Akasa Air,279,202,73,4
+6E,IndiGo,281,207,69,5
+SG,SpiceJet,253,208,28,17
+6E,IndiGo,231,120,17,94
+SG,SpiceJet,138,86,5,47
+QP,Akasa Air,163,109,52,2
+SG,SpiceJet,59,33,9,17
+AI,Air India,136,125,11,0
+UK,Vistara,217,191,3,23
+QP,Akasa Air,273,153,8,112
+SG,SpiceJet,254,206,38,10
+SG,SpiceJet,58,51,2,5
+AI,Air India,260,254,4,2
+AI,Air India,271,173,64,34
+UK,Vistara,290,198,30,62
+AI,Air India,123,69,51,3
+QP,Akasa Air,217,203,13,1
+AI,Air India,151,122,19,10
+6E,IndiGo,190,127,39,24
+6E,IndiGo,57,32,24,1
+AI,Air India,225,153,5,67
+AI,Air India,179,138,18,23
+SG,SpiceJet,243,145,59,39
+6E,IndiGo,181,148,31,2
+6E,IndiGo,295,196,56,43
+6E,IndiGo,295,208,16,71
+QP,Akasa Air,133,92,26,15
+QP,Akasa Air,216,193,19,4
+SG,SpiceJet,81,55,2,24
+SG,SpiceJet,76,69,0,7
+UK,Vistara,230,149,15,66
+6E,IndiGo,91,71,10,10
+UK,Vistara,200,127,62,11
+6E,IndiGo,158,117,12,29
+UK,Vistara,180,141,20,19
+AI,Air India,159,122,3,34
+6E,IndiGo,55,35,7,13
+QP,Akasa Air,157,111,15,31
+AI,Air India,267,201,59,7
+UK,Vistara,271,153,23,95
+UK,Vistara,56,43,6,7
+SG,SpiceJet,135,83,30,22
+QP,Akasa Air,230,191,8,31
+SG,SpiceJet,126,64,30,32
+SG,SpiceJet,74,50,2,22
+6E,IndiGo,207,203,3,1
+UK,Vistara,300,170,81,49
+UK,Vistara,300,212,30,58
+SG,SpiceJet,156,144,0,12
+AI,Air India,240,126,102,12
+6E,IndiGo,241,217,22,2
+AI,Air India,69,67,0,2
+AI,Air India,160,141,6,13
+SG,SpiceJet,84,64,13,7
+AI,Air India,143,98,40,5
+AI,Air India,266,217,24,25
+UK,Vistara,140,126,11,3
+SG,SpiceJet,278,152,65,61
+6E,IndiGo,76,72,0,4
+AI,Air India,216,173,2,41
+SG,SpiceJet,99,68,24,7
+QP,Akasa Air,275,243,23,9
+SG,SpiceJet,246,129,94,23
+6E,IndiGo,251,240,6,5
+UK,Vistara,188,105,10,73
+UK,Vistara,64,63,1,0
+QP,Akasa Air,94,68,22,4
+UK,Vistara,71,56,7,8
+AI,Air India,138,108,2,28
+6E,IndiGo,276,176,44,56
+SG,SpiceJet,119,79,33,7
+AI,Air India,126,101,0,25
+AI,Air India,228,216,7,5
+UK,Vistara,192,131,55,6
+UK,Vistara,145,137,3,5
+6E,IndiGo,159,151,3,5
+UK,Vistara,56,53,1,2
+AI,Air India,152,119,0,33
+UK,Vistara,243,127,62,54
+6E,IndiGo,69,45,22,2
+SG,SpiceJet,174,104,23,47
+QP,Akasa Air,115,85,18,12
+6E,IndiGo,257,196,8,53
+UK,Vistara,175,164,10,1
+UK,Vistara,164,133,31,0
+QP,Akasa Air,83,61,5,17
+AI,Air India,281,265,6,10
+QP,Akasa Air,298,210,23,65
+6E,IndiGo,109,79,23,7
+UK,Vistara,141,133,0,8
+SG,SpiceJet,195,165,10,20
+6E,IndiGo,174,146,24,4
+QP,Akasa Air,88,61,9,18
+UK,Vistara,287,157,65,65
+QP,Akasa Air,197,102,9,86
+6E,IndiGo,279,240,23,16
+UK,Vistara,212,205,1,6
+AI,Air India,90,85,3,2
+QP,Akasa Air,108,56,31,21
+SG,SpiceJet,265,136,82,47
+6E,IndiGo,277,162,62,53
+6E,IndiGo,160,106,23,31
+QP,Akasa Air,135,120,3,12
+QP,Akasa Air,243,171,39,33
+UK,Vistara,257,173,61,23
+UK,Vistara,161,81,14,66
+AI,Air India,183,100,39,44
+SG,SpiceJet,74,50,18,6
+6E,IndiGo,241,180,32,29
+QP,Akasa Air,292,204,11,77
+QP,Akasa Air,163,101,28,34
+SG,SpiceJet,250,168,2,80
+QP,Akasa Air,247,153,24,70
+QP,Akasa Air,73,43,3,27
+UK,Vistara,54,48,1,5
+QP,Akasa Air,85,43,39,3
+SG,SpiceJet,256,172,29,55
+AI,Air India,137,133,2,2
+UK,Vistara,163,162,1,0
+AI,Air India,218,131,84,3
+AI,Air India,109,85,20,4
+QP,Akasa Air,202,114,1,87
+SG,SpiceJet,244,137,57,50
+6E,IndiGo,125,103,4,18
+6E,IndiGo,78,39,2,37
+6E,IndiGo,60,53,5,2
+6E,IndiGo,208,173,16,19
+6E,IndiGo,240,198,35,7
+6E,IndiGo,97,51,7,39
+UK,Vistara,290,192,47,51
+QP,Akasa Air,142,104,12,26
+6E,IndiGo,234,119,90,25
+6E,IndiGo,109,84,1,24
+AI,Air India,101,72,19,10
+QP,Akasa Air,229,136,52,41
+SG,SpiceJet,203,184,13,6
+AI,Air India,283,245,18,20
+UK,Vistara,220,211,1,8
+SG,SpiceJet,284,164,34,86
+6E,IndiGo,188,143,14,31
+6E,IndiGo,85,77,6,2
+UK,Vistara,168,137,22,9
+QP,Akasa Air,236,195,18,23
+6E,IndiGo,187,158,8,21
+QP,Akasa Air,225,187,17,21
+AI,Air India,65,32,33,0
+AI,Air India,92,64,22,6
+QP,Akasa Air,55,43,11,1
+AI,Air India,109,72,26,11
+SG,SpiceJet,128,75,40,13
+QP,Akasa Air,137,94,3,40
+6E,IndiGo,147,96,17,34
+UK,Vistara,204,140,53,11
+AI,Air India,183,102,1,80
+SG,SpiceJet,106,87,13,6
+AI,Air India,298,202,25,71
+AI,Air India,221,123,15,83
+SG,SpiceJet,284,261,6,17
+6E,IndiGo,249,240,6,3
+SG,SpiceJet,134,75,3,56
+SG,SpiceJet,202,125,30,47
+6E,IndiGo,59,33,24,2
+UK,Vistara,149,127,22,0
+6E,IndiGo,50,42,8,0
+UK,Vistara,123,91,15,17
+UK,Vistara,107,106,0,1
+QP,Akasa Air,223,198,9,16
+AI,Air India,238,169,4,65
+SG,SpiceJet,297,187,82,28
+UK,Vistara,207,131,50,26
+QP,Akasa Air,89,68,10,11
+QP,Akasa Air,167,149,9,9
+AI,Air India,212,164,40,8
+QP,Akasa Air,300,289,3,8
+UK,Vistara,84,77,6,1
+6E,IndiGo,154,105,24,25
+6E,IndiGo,124,124,0,0
+UK,Vistara,179,140,19,20
+AI,Air India,73,36,29,8
+SG,SpiceJet,262,230,22,10
+SG,SpiceJet,286,153,128,5
+QP,Akasa Air,238,232,6,0
+UK,Vistara,197,109,20,68
+UK,Vistara,213,117,41,55
+AI,Air India,276,147,73,56
+QP,Akasa Air,73,64,7,2
+QP,Akasa Air,126,98,28,0
+SG,SpiceJet,262,251,8,3
+UK,Vistara,120,64,53,3
+UK,Vistara,243,153,19,71
+AI,Air India,237,140,27,70
+UK,Vistara,175,166,8,1
+QP,Akasa Air,187,180,3,4
+6E,IndiGo,223,152,37,34
+UK,Vistara,224,114,47,63
+SG,SpiceJet,129,109,20,0
+QP,Akasa Air,217,126,58,33
+AI,Air India,167,148,17,2
+UK,Vistara,112,110,2,0
+QP,Akasa Air,199,194,1,4
+QP,Akasa Air,222,216,6,0
+QP,Akasa Air,160,140,7,13
+AI,Air India,141,109,9,23
+6E,IndiGo,55,33,8,14
+SG,SpiceJet,224,185,12,27
+UK,Vistara,77,63,14,0
+6E,IndiGo,128,127,0,1
+6E,IndiGo,294,184,24,86
+AI,Air India,281,201,30,50
+UK,Vistara,155,101,47,7
+QP,Akasa Air,242,145,23,74
+SG,SpiceJet,103,56,10,37
+QP,Akasa Air,274,163,12,99
+AI,Air India,125,113,6,6
+SG,SpiceJet,81,53,14,14
+UK,Vistara,173,104,27,42
+6E,IndiGo,265,237,0,28
+SG,SpiceJet,253,185,48,20
+QP,Akasa Air,271,252,12,7
+6E,IndiGo,199,183,12,4
+6E,IndiGo,215,162,28,25
+QP,Akasa Air,225,207,8,10
+AI,Air India,261,148,55,58
+UK,Vistara,147,95,0,52
+QP,Akasa Air,124,123,1,0
+UK,Vistara,114,58,34,22
+6E,IndiGo,265,265,0,0
+QP,Akasa Air,231,128,46,57
+6E,IndiGo,195,126,27,42
+UK,Vistara,144,72,11,61
+QP,Akasa Air,136,105,23,8
+QP,Akasa Air,196,155,18,23
+SG,SpiceJet,253,225,5,23
+SG,SpiceJet,173,150,6,17
+6E,IndiGo,163,144,8,11
+SG,SpiceJet,297,267,26,4
+6E,IndiGo,200,171,26,3
+UK,Vistara,66,51,1,14
+AI,Air India,254,165,33,56
+AI,Air India,109,79,25,5
+AI,Air India,278,166,96,16
+6E,IndiGo,190,137,35,18
+AI,Air India,97,84,8,5
+6E,IndiGo,158,156,2,0
+QP,Akasa Air,91,64,7,20
+6E,IndiGo,164,100,15,49
+UK,Vistara,136,135,1,0
+6E,IndiGo,248,207,27,14
+QP,Akasa Air,268,234,7,27
+6E,IndiGo,248,127,28,93
+6E,IndiGo,225,159,33,33
+6E,IndiGo,287,252,26,9
+SG,SpiceJet,74,49,0,25
+UK,Vistara,297,231,26,40
+6E,IndiGo,279,278,0,1
+UK,Vistara,54,27,5,22
+UK,Vistara,272,267,2,3
+UK,Vistara,85,58,16,11
+SG,SpiceJet,128,81,19,28
+QP,Akasa Air,265,161,28,76
+UK,Vistara,175,121,16,38
+6E,IndiGo,95,81,3,11
+UK,Vistara,67,67,0,0
+SG,SpiceJet,53,28,24,1
+SG,SpiceJet,213,141,68,4
+UK,Vistara,248,128,104,16
+AI,Air India,129,112,8,9
+SG,SpiceJet,201,151,46,4
+6E,IndiGo,202,146,2,54
+SG,SpiceJet,120,89,24,7
+SG,SpiceJet,242,214,0,28
+6E,IndiGo,256,181,9,66
+UK,Vistara,156,137,15,4
+SG,SpiceJet,148,92,3,53
+AI,Air India,226,168,40,18
+UK,Vistara,300,159,78,63
+6E,IndiGo,149,78,61,10
+QP,Akasa Air,107,96,3,8
+6E,IndiGo,229,125,2,102
+QP,Akasa Air,271,141,98,32
+AI,Air India,155,127,19,9
+6E,IndiGo,110,90,12,8
+6E,IndiGo,271,250,14,7
+QP,Akasa Air,105,78,0,27
+UK,Vistara,219,160,3,56
+QP,Akasa Air,55,50,0,5
+SG,SpiceJet,85,51,13,21
+SG,SpiceJet,153,117,7,29
+QP,Akasa Air,261,135,53,73
+QP,Akasa Air,151,147,2,2
+AI,Air India,266,193,35,38
+6E,IndiGo,51,49,0,2
+SG,SpiceJet,284,275,6,3
+6E,IndiGo,221,161,54,6
+6E,IndiGo,140,132,1,7
+SG,SpiceJet,135,111,16,8
+6E,IndiGo,164,124,11,29
+QP,Akasa Air,224,133,39,52
+UK,Vistara,186,161,7,18
+UK,Vistara,261,154,61,46
+UK,Vistara,65,54,8,3
+AI,Air India,144,95,19,30
+SG,SpiceJet,203,124,23,56
+6E,IndiGo,240,154,46,40
+QP,Akasa Air,226,182,9,35
+SG,SpiceJet,179,146,30,3
+SG,SpiceJet,167,158,3,6
+UK,Vistara,290,263,1,26
+QP,Akasa Air,145,80,10,55
+SG,SpiceJet,123,66,16,41
+QP,Akasa Air,126,112,2,12
+AI,Air India,181,114,51,16
+QP,Akasa Air,294,165,100,29
+AI,Air India,147,138,1,8
+UK,Vistara,269,160,6,103
+6E,IndiGo,209,137,23,49
+6E,IndiGo,172,160,2,10
+6E,IndiGo,217,173,20,24
+QP,Akasa Air,232,121,107,4
+SG,SpiceJet,160,106,40,14
+AI,Air India,290,154,60,76
+UK,Vistara,278,262,2,14
+QP,Akasa Air,52,45,3,4
+UK,Vistara,227,137,80,10
+6E,IndiGo,114,110,3,1
+QP,Akasa Air,153,145,4,4
+6E,IndiGo,199,171,28,0
+SG,SpiceJet,156,81,56,19
+AI,Air India,156,150,1,5
+QP,Akasa Air,226,221,4,1
+QP,Akasa Air,114,106,3,5
+QP,Akasa Air,241,185,21,35
+SG,SpiceJet,113,101,2,10
+6E,IndiGo,216,212,2,2
+QP,Akasa Air,62,54,4,4
+UK,Vistara,226,191,29,6
+UK,Vistara,105,69,1,35
+AI,Air India,70,46,15,9
+QP,Akasa Air,168,95,26,47
+QP,Akasa Air,251,201,16,34
+QP,Akasa Air,271,198,58,15
+UK,Vistara,237,171,41,25
+UK,Vistara,180,102,7,71
+6E,IndiGo,160,100,34,26
+QP,Akasa Air,250,149,68,33
+6E,IndiGo,140,82,53,5
+UK,Vistara,167,162,5,0
+QP,Akasa Air,287,241,26,20
+6E,IndiGo,210,179,29,2
+6E,IndiGo,276,187,50,39
+QP,Akasa Air,104,91,10,3
+6E,IndiGo,110,88,19,3
+AI,Air India,172,103,59,10
+UK,Vistara,209,205,1,3
+AI,Air India,93,47,21,25
+SG,SpiceJet,249,139,27,83
+UK,Vistara,234,204,7,23
+AI,Air India,191,152,38,1
+QP,Akasa Air,106,97,7,2
+UK,Vistara,92,87,4,1
+UK,Vistara,74,44,24,6
+AI,Air India,54,27,17,10
+SG,SpiceJet,283,215,45,23
+SG,SpiceJet,63,59,1,3
+6E,IndiGo,156,89,26,41
+QP,Akasa Air,175,150,17,8
+AI,Air India,177,97,8,72
+6E,IndiGo,53,44,1,8
+QP,Akasa Air,98,81,10,7
+UK,Vistara,210,165,34,11
+SG,SpiceJet,291,155,102,34
+SG,SpiceJet,262,195,3,64
+6E,IndiGo,221,141,54,26
+UK,Vistara,96,61,0,35
+QP,Akasa Air,217,191,20,6
+6E,IndiGo,195,98,39,58
+6E,IndiGo,55,36,12,7
+QP,Akasa Air,53,29,16,8
+UK,Vistara,264,254,4,6
+QP,Akasa Air,121,85,34,2
+SG,SpiceJet,260,142,68,50
+6E,IndiGo,204,127,18,59
+6E,IndiGo,252,160,59,33
+UK,Vistara,266,147,18,101
+AI,Air India,77,63,1,13
+UK,Vistara,278,143,100,35
+AI,Air India,91,66,5,20
+AI,Air India,90,61,4,25
+6E,IndiGo,148,89,25,34
+6E,IndiGo,118,98,11,9
+6E,IndiGo,195,133,15,47
+SG,SpiceJet,100,78,0,22
+QP,Akasa Air,54,45,7,2
+6E,IndiGo,59,45,9,5
+QP,Akasa Air,135,126,2,7
+AI,Air India,121,112,5,4
+QP,Akasa Air,225,145,7,73
+UK,Vistara,208,164,17,27
+QP,Akasa Air,198,138,8,52
+UK,Vistara,61,52,1,8
+6E,IndiGo,296,219,66,11
+6E,IndiGo,61,43,13,5
+6E,IndiGo,258,234,22,2
+UK,Vistara,175,161,2,12
+QP,Akasa Air,134,100,16,18
+QP,Akasa Air,280,249,1,30
+6E,IndiGo,266,187,24,55
+6E,IndiGo,104,70,23,11
+UK,Vistara,63,52,5,6
+6E,IndiGo,104,84,10,10
+6E,IndiGo,188,119,25,44
+6E,IndiGo,217,168,4,45
+QP,Akasa Air,194,162,32,0
+SG,SpiceJet,120,110,2,8
+QP,Akasa Air,198,185,4,9
+UK,Vistara,258,257,0,1
+SG,SpiceJet,207,204,2,1
+QP,Akasa Air,193,133,0,60
+QP,Akasa Air,64,49,12,3
+AI,Air India,122,106,2,14
+UK,Vistara,250,199,43,8
+QP,Akasa Air,169,88,55,26
+6E,IndiGo,241,224,8,9
+QP,Akasa Air,224,181,37,6
+QP,Akasa Air,66,40,25,1
+AI,Air India,71,37,22,12
+AI,Air India,106,68,10,28
+UK,Vistara,161,127,27,7
+QP,Akasa Air,123,115,7,1
+AI,Air India,220,120,1,99
+AI,Air India,227,174,48,5
+QP,Akasa Air,213,153,21,39
+SG,SpiceJet,241,225,13,3
+AI,Air India,140,70,69,1
+UK,Vistara,241,231,2,8
+SG,SpiceJet,100,79,20,1
+6E,IndiGo,267,159,33,75
+UK,Vistara,281,231,26,24
+AI,Air India,186,115,14,57
+AI,Air India,154,141,9,4
+SG,SpiceJet,258,247,9,2
+QP,Akasa Air,206,200,2,4
+AI,Air India,119,69,12,38
+AI,Air India,70,50,5,15
+AI,Air India,227,141,78,8
+UK,Vistara,202,129,33,40
+UK,Vistara,282,252,8,22
+AI,Air India,218,171,26,21
+AI,Air India,204,143,36,25
+6E,IndiGo,62,32,30,0
+6E,IndiGo,157,113,20,24
+UK,Vistara,183,91,88,4
+UK,Vistara,233,131,72,30
+SG,SpiceJet,107,78,21,8
+SG,SpiceJet,96,76,4,16
+SG,SpiceJet,256,138,6,112
+6E,IndiGo,91,80,10,1
+AI,Air India,55,41,2,12
+AI,Air India,141,132,5,4
+SG,SpiceJet,275,253,20,2
+SG,SpiceJet,276,186,55,35
+6E,IndiGo,163,114,22,27
+UK,Vistara,214,159,41,14
+UK,Vistara,75,49,17,9
+AI,Air India,259,199,33,27
+UK,Vistara,99,64,0,35
+SG,SpiceJet,107,87,8,12
+AI,Air India,296,251,28,17
+SG,SpiceJet,275,166,25,84
+6E,IndiGo,192,108,17,67
+6E,IndiGo,89,84,2,3
+UK,Vistara,72,57,8,7
+6E,IndiGo,86,74,4,8
+6E,IndiGo,181,123,20,38
+SG,SpiceJet,255,205,4,46
+SG,SpiceJet,129,89,35,5
+AI,Air India,238,191,16,31
+6E,IndiGo,193,139,4,50
+UK,Vistara,89,71,14,4
+UK,Vistara,51,43,7,1
+QP,Akasa Air,64,53,2,9
+6E,IndiGo,261,197,42,22
+SG,SpiceJet,90,73,14,3
+6E,IndiGo,279,158,62,59
+UK,Vistara,231,119,17,95
+SG,SpiceJet,61,60,0,1
+AI,Air India,90,70,13,7
+QP,Akasa Air,90,89,1,0
+SG,SpiceJet,55,55,0,0
+6E,IndiGo,165,113,17,35
+QP,Akasa Air,90,52,37,1
+SG,SpiceJet,222,144,2,76
+6E,IndiGo,226,190,28,8
+AI,Air India,235,181,14,40
+QP,Akasa Air,96,86,0,10
+UK,Vistara,70,38,19,13
+6E,IndiGo,214,190,15,9
+UK,Vistara,216,201,11,4
+6E,IndiGo,272,145,117,10
+QP,Akasa Air,61,37,18,6
+UK,Vistara,125,81,23,21
+UK,Vistara,78,76,1,1
+AI,Air India,217,210,2,5
+QP,Akasa Air,79,70,9,0
+6E,IndiGo,177,92,68,17
+QP,Akasa Air,149,75,9,65
+AI,Air India,257,182,23,52
+UK,Vistara,95,52,22,21
+QP,Akasa Air,244,140,88,16
+UK,Vistara,132,118,8,6
+SG,SpiceJet,61,44,7,10
+6E,IndiGo,76,55,0,21
+UK,Vistara,83,63,1,19
+6E,IndiGo,230,206,18,6
+AI,Air India,288,262,6,20
+UK,Vistara,146,118,8,20
+6E,IndiGo,66,59,0,7
+AI,Air India,211,144,53,14
+6E,IndiGo,237,230,2,5
+QP,Akasa Air,55,35,18,2
+QP,Akasa Air,149,78,25,46
+QP,Akasa Air,203,197,2,4
+UK,Vistara,254,134,0,120
+UK,Vistara,180,96,3,81
+AI,Air India,206,127,78,1
+UK,Vistara,88,87,1,0
+AI,Air India,164,133,9,22
+QP,Akasa Air,129,70,53,6
+SG,SpiceJet,160,95,17,48
+6E,IndiGo,241,120,71,50
+6E,IndiGo,181,114,22,45
+UK,Vistara,294,284,0,10
+SG,SpiceJet,145,90,32,23
+SG,SpiceJet,256,183,29,44
+AI,Air India,297,244,8,45
+UK,Vistara,145,76,42,27
+6E,IndiGo,237,163,60,14
+UK,Vistara,267,145,21,101
+6E,IndiGo,268,166,102,0
+AI,Air India,258,208,19,31
+SG,SpiceJet,127,119,6,2
+6E,IndiGo,283,275,2,6
+SG,SpiceJet,74,50,15,9
+6E,IndiGo,221,157,63,1
+6E,IndiGo,272,185,8,79
+QP,Akasa Air,78,54,16,8
+6E,IndiGo,176,88,48,40
+QP,Akasa Air,152,98,15,39
+AI,Air India,125,89,5,31
+UK,Vistara,228,217,6,5
+QP,Akasa Air,117,86,26,5
+AI,Air India,52,30,11,11
+SG,SpiceJet,159,140,7,12
+SG,SpiceJet,198,186,2,10
+UK,Vistara,119,93,21,5
+QP,Akasa Air,130,92,26,12
+AI,Air India,282,176,23,83
+AI,Air India,133,100,30,3
+AI,Air India,176,117,32,27
+QP,Akasa Air,162,120,1,41
+QP,Akasa Air,86,83,1,2
+UK,Vistara,277,249,8,20
+AI,Air India,57,39,12,6
+6E,IndiGo,238,194,34,10
+AI,Air India,288,145,70,73
+6E,IndiGo,192,171,3,18
+AI,Air India,238,194,36,8
+6E,IndiGo,217,110,74,33
+AI,Air India,173,173,0,0
+AI,Air India,282,221,7,54
+6E,IndiGo,161,155,6,0
+SG,SpiceJet,89,46,5,38
+UK,Vistara,193,134,32,27
+6E,IndiGo,230,130,68,32
+AI,Air India,52,43,8,1
+6E,IndiGo,113,73,39,1
+AI,Air India,182,141,10,31
+QP,Akasa Air,211,123,27,61
+AI,Air India,269,140,14,115
+SG,SpiceJet,269,241,12,16
+QP,Akasa Air,291,286,4,1
+SG,SpiceJet,136,72,35,29
+SG,SpiceJet,291,184,43,64
+6E,IndiGo,162,149,8,5
+UK,Vistara,269,232,31,6
+UK,Vistara,55,27,27,1
+SG,SpiceJet,241,203,35,3
+UK,Vistara,137,103,21,13
+6E,IndiGo,111,96,6,9
+6E,IndiGo,199,126,64,9
+AI,Air India,94,68,3,23
+AI,Air India,188,156,26,6
+AI,Air India,110,74,10,26
+AI,Air India,237,229,8,0
+QP,Akasa Air,192,105,70,17
+SG,SpiceJet,189,147,25,17
+AI,Air India,293,182,88,23
+AI,Air India,276,201,23,52
+6E,IndiGo,195,170,7,18
+AI,Air India,83,78,3,2
+SG,SpiceJet,144,138,2,4
+QP,Akasa Air,111,70,38,3
+6E,IndiGo,126,64,25,37
+AI,Air India,205,141,55,9
+QP,Akasa Air,288,278,9,1
+QP,Akasa Air,150,112,3,35
+6E,IndiGo,268,164,70,34
+6E,IndiGo,201,162,3,36
+6E,IndiGo,198,132,58,8
+UK,Vistara,209,153,17,39
+QP,Akasa Air,71,58,8,5
+AI,Air India,98,81,7,10
+UK,Vistara,254,138,16,100
+QP,Akasa Air,122,88,14,20
+UK,Vistara,167,131,31,5
+QP,Akasa Air,237,155,53,29
+AI,Air India,206,200,4,2
+AI,Air India,72,51,10,11
+QP,Akasa Air,122,78,17,27
+UK,Vistara,51,36,5,10
+AI,Air India,217,183,25,9
+UK,Vistara,193,153,5,35
+UK,Vistara,275,219,32,24
+SG,SpiceJet,280,183,4,93
+AI,Air India,179,176,2,1
+AI,Air India,128,118,10,0
+6E,IndiGo,241,217,6,18
+AI,Air India,290,212,68,10
+QP,Akasa Air,196,176,16,4
+UK,Vistara,100,67,2,31
+SG,SpiceJet,181,173,0,8
+QP,Akasa Air,223,181,17,25
+UK,Vistara,210,134,4,72
+QP,Akasa Air,247,226,19,2
+UK,Vistara,157,118,18,21
+AI,Air India,176,127,37,12
+6E,IndiGo,274,230,12,32
+6E,IndiGo,222,172,43,7
+UK,Vistara,276,172,84,20
+AI,Air India,252,132,17,103
+UK,Vistara,54,35,7,12
+6E,IndiGo,145,98,10,37
+AI,Air India,70,37,32,1
+QP,Akasa Air,81,57,16,8
+6E,IndiGo,64,40,22,2
+SG,SpiceJet,96,91,4,1
+AI,Air India,73,69,4,0
+6E,IndiGo,186,124,8,54
+UK,Vistara,115,57,38,20
+UK,Vistara,246,127,87,32
+QP,Akasa Air,131,96,19,16
+SG,SpiceJet,147,125,22,0
+QP,Akasa Air,187,94,8,85
+QP,Akasa Air,144,136,8,0
+UK,Vistara,211,143,17,51
+QP,Akasa Air,214,135,44,35
+SG,SpiceJet,93,85,7,1
+AI,Air India,103,56,18,29
+QP,Akasa Air,88,87,1,0
+SG,SpiceJet,226,134,87,5
+AI,Air India,171,102,18,51
+SG,SpiceJet,180,100,75,5
+6E,IndiGo,144,87,10,47
+6E,IndiGo,246,127,60,59
+6E,IndiGo,186,158,6,22
+SG,SpiceJet,288,179,26,83
+QP,Akasa Air,163,93,34,36
+QP,Akasa Air,238,163,37,38
+6E,IndiGo,204,103,27,74
+QP,Akasa Air,297,167,23,107
+AI,Air India,184,182,2,0
+SG,SpiceJet,60,48,0,12
+QP,Akasa Air,71,61,10,0
+QP,Akasa Air,137,133,3,1
+UK,Vistara,203,184,19,0
+QP,Akasa Air,86,70,11,5
+QP,Akasa Air,63,44,6,13
+6E,IndiGo,139,133,3,3
+UK,Vistara,81,79,2,0
+AI,Air India,245,189,26,30
+6E,IndiGo,236,229,2,5
+SG,SpiceJet,107,102,0,5
+AI,Air India,228,186,22,20
+AI,Air India,101,91,6,4
+SG,SpiceJet,103,63,39,1
+UK,Vistara,117,88,23,6
+SG,SpiceJet,297,215,55,27
+UK,Vistara,72,61,0,11
+6E,IndiGo,172,112,11,49
+UK,Vistara,109,106,3,0
+UK,Vistara,55,29,3,23
+AI,Air India,145,138,5,2
+SG,SpiceJet,165,135,22,8
+AI,Air India,207,136,57,14
+SG,SpiceJet,247,171,76,0
+6E,IndiGo,290,220,50,20
+SG,SpiceJet,274,223,30,21
+6E,IndiGo,52,31,18,3
+QP,Akasa Air,247,190,27,30
+6E,IndiGo,174,159,10,5
+QP,Akasa Air,169,163,1,5
+SG,SpiceJet,230,120,22,88
+6E,IndiGo,229,212,4,13
+UK,Vistara,117,90,7,20
+SG,SpiceJet,256,163,39,54
+UK,Vistara,220,151,6,63
+AI,Air India,93,70,8,15
+6E,IndiGo,278,225,14,39
+AI,Air India,131,129,2,0
+SG,SpiceJet,101,90,11,0
+QP,Akasa Air,153,141,8,4
+AI,Air India,260,252,7,1
+6E,IndiGo,219,163,54,2
+UK,Vistara,93,74,3,16
+AI,Air India,273,248,7,18
+6E,IndiGo,180,159,2,19
+UK,Vistara,164,155,7,2
+SG,SpiceJet,157,107,46,4
+6E,IndiGo,226,204,4,18
+AI,Air India,278,262,9,7
+QP,Akasa Air,100,99,0,1
+AI,Air India,139,129,7,3
+6E,IndiGo,258,159,42,57
+AI,Air India,62,40,0,22
+AI,Air India,236,226,4,6
+UK,Vistara,166,129,5,32
+6E,IndiGo,261,229,5,27
+6E,IndiGo,198,174,19,5
+QP,Akasa Air,272,206,49,17
+QP,Akasa Air,97,57,37,3
+UK,Vistara,200,100,5,95
+AI,Air India,114,109,4,1
+QP,Akasa Air,100,86,0,14
+6E,IndiGo,74,74,0,0
+SG,SpiceJet,266,163,95,8
+SG,SpiceJet,114,82,24,8
+6E,IndiGo,145,124,19,2
+SG,SpiceJet,209,128,75,6
+6E,IndiGo,196,162,21,13
+SG,SpiceJet,109,97,12,0
+QP,Akasa Air,136,114,16,6
+6E,IndiGo,284,149,45,90
+SG,SpiceJet,115,71,39,5
+SG,SpiceJet,119,90,20,9
+QP,Akasa Air,83,66,8,9
+QP,Akasa Air,234,223,2,9
+SG,SpiceJet,153,123,21,9
+QP,Akasa Air,165,137,5,23
+QP,Akasa Air,114,99,10,5
+UK,Vistara,222,179,42,1
+6E,IndiGo,272,136,107,29
+6E,IndiGo,125,123,2,0
+SG,SpiceJet,214,162,39,13
+SG,SpiceJet,278,224,21,33
+AI,Air India,212,150,29,33
+6E,IndiGo,118,112,5,1
+SG,SpiceJet,254,128,123,3
+6E,IndiGo,191,97,35,59
+AI,Air India,181,156,1,24
+QP,Akasa Air,128,120,2,6
+AI,Air India,218,164,6,48
+AI,Air India,75,41,27,7
+UK,Vistara,138,114,18,6
+AI,Air India,204,199,0,5
+AI,Air India,291,264,19,8
+UK,Vistara,215,215,0,0
+SG,SpiceJet,284,164,98,22
+SG,SpiceJet,225,132,66,27
+UK,Vistara,269,231,6,32
+AI,Air India,131,88,37,6
+AI,Air India,142,139,2,1
+6E,IndiGo,225,129,48,48
+6E,IndiGo,298,292,6,0
+QP,Akasa Air,104,52,4,48
+QP,Akasa Air,140,139,0,1
+SG,SpiceJet,125,62,58,5
+AI,Air India,105,79,25,1
+UK,Vistara,210,110,85,15
+QP,Akasa Air,264,246,10,8
+UK,Vistara,54,31,18,5
+QP,Akasa Air,70,56,8,6
+UK,Vistara,134,113,12,9
+SG,SpiceJet,55,49,0,6
+UK,Vistara,219,146,5,68
+6E,IndiGo,93,68,22,3
+SG,SpiceJet,222,202,18,2
+SG,SpiceJet,109,65,43,1
+6E,IndiGo,175,111,34,30
+UK,Vistara,61,39,5,17
+UK,Vistara,73,66,4,3
+AI,Air India,186,177,8,1
+AI,Air India,192,185,5,2
+UK,Vistara,133,94,23,16
+UK,Vistara,133,94,18,21
+AI,Air India,166,94,49,23
+6E,IndiGo,201,107,31,63
+UK,Vistara,200,142,17,41
+6E,IndiGo,252,210,24,18
+SG,SpiceJet,274,176,32,66
+UK,Vistara,186,171,15,0
+QP,Akasa Air,186,146,10,30
+SG,SpiceJet,242,193,31,18
+UK,Vistara,238,232,2,4
+QP,Akasa Air,291,230,28,33
+UK,Vistara,127,80,39,8
+AI,Air India,293,147,115,31
+SG,SpiceJet,205,103,16,86
+AI,Air India,120,73,9,38
+QP,Akasa Air,168,117,13,38
+QP,Akasa Air,249,175,57,17
+UK,Vistara,222,191,1,30
+UK,Vistara,164,159,5,0
+SG,SpiceJet,211,144,40,27
+UK,Vistara,249,124,31,94
+UK,Vistara,63,62,1,0
+QP,Akasa Air,239,224,10,5
+SG,SpiceJet,269,216,24,29
+6E,IndiGo,109,75,33,1
+QP,Akasa Air,148,83,56,9
+AI,Air India,98,94,0,4
+QP,Akasa Air,123,114,2,7
+SG,SpiceJet,256,204,2,50
+AI,Air India,85,66,13,6
+AI,Air India,69,64,4,1
+AI,Air India,185,154,3,28
+AI,Air India,272,243,23,6
+UK,Vistara,236,149,51,36
+QP,Akasa Air,212,169,10,33
+AI,Air India,185,154,19,12
+AI,Air India,92,60,26,6
+QP,Akasa Air,212,117,33,62
+AI,Air India,270,218,36,16
+QP,Akasa Air,110,82,9,19
+UK,Vistara,173,161,9,3
+UK,Vistara,240,166,29,45
+QP,Akasa Air,71,50,5,16
+QP,Akasa Air,83,46,15,22
+6E,IndiGo,198,176,1,21
+6E,IndiGo,82,65,3,14
+QP,Akasa Air,222,115,62,45
+6E,IndiGo,175,132,31,12
+QP,Akasa Air,220,116,97,7
+QP,Akasa Air,275,227,29,19
+6E,IndiGo,63,58,0,5
+QP,Akasa Air,62,50,1,11
+AI,Air India,182,178,3,1
+SG,SpiceJet,251,133,22,96
+6E,IndiGo,272,170,75,27
+AI,Air India,130,68,40,22
+AI,Air India,172,161,6,5
+SG,SpiceJet,111,73,0,38
+AI,Air India,224,122,4,98
+6E,IndiGo,162,118,22,22
+UK,Vistara,94,84,0,10
+QP,Akasa Air,194,193,0,1
+QP,Akasa Air,257,245,1,11
+AI,Air India,69,43,20,6
+SG,SpiceJet,242,206,35,1
+6E,IndiGo,254,159,81,14
+6E,IndiGo,144,106,3,35
+UK,Vistara,77,40,6,31
+AI,Air India,215,140,3,72
+AI,Air India,267,163,1,103
+SG,SpiceJet,170,131,1,38
+UK,Vistara,133,112,20,1
+AI,Air India,244,227,14,3
+QP,Akasa Air,94,73,3,18
+AI,Air India,247,150,57,40
+UK,Vistara,239,235,4,0
+UK,Vistara,200,114,6,80
+AI,Air India,296,230,63,3
+AI,Air India,120,117,1,2
+UK,Vistara,230,216,8,6
+SG,SpiceJet,108,68,28,12
+UK,Vistara,163,103,33,27
+UK,Vistara,145,91,52,2
+SG,SpiceJet,251,220,21,10
+QP,Akasa Air,246,146,22,78
+QP,Akasa Air,176,121,6,49
+AI,Air India,172,160,10,2
+6E,IndiGo,272,239,15,18
+QP,Akasa Air,188,106,9,73
+SG,SpiceJet,156,97,24,35
+UK,Vistara,207,187,16,4
+AI,Air India,237,223,3,11
+QP,Akasa Air,164,130,21,13
+UK,Vistara,268,259,4,5
+AI,Air India,253,252,0,1
+SG,SpiceJet,74,67,5,2
+QP,Akasa Air,99,88,8,3
+QP,Akasa Air,258,157,53,48
+SG,SpiceJet,299,165,82,52
+UK,Vistara,52,43,4,5
+SG,SpiceJet,259,243,14,2
+6E,IndiGo,236,144,57,35
+UK,Vistara,190,115,16,59
+SG,SpiceJet,226,137,51,38
+SG,SpiceJet,221,129,10,82
+SG,SpiceJet,169,120,42,7
+AI,Air India,188,126,51,11
+AI,Air India,139,83,56,0
+AI,Air India,198,131,42,25
+AI,Air India,237,185,50,2
+UK,Vistara,172,153,4,15
+SG,SpiceJet,158,115,12,31
+QP,Akasa Air,108,66,15,27
+UK,Vistara,222,146,57,19
+6E,IndiGo,73,55,13,5
+AI,Air India,231,136,89,6
+QP,Akasa Air,69,53,9,7
+6E,IndiGo,221,217,4,0
+AI,Air India,212,192,8,12
+AI,Air India,121,84,5,32
+AI,Air India,178,136,32,10
+UK,Vistara,129,76,1,52
+UK,Vistara,209,165,44,0
+AI,Air India,259,171,60,28
+SG,SpiceJet,130,95,0,35
+UK,Vistara,219,115,39,65
+SG,SpiceJet,192,100,84,8
+6E,IndiGo,111,93,15,3
+QP,Akasa Air,130,98,24,8
+QP,Akasa Air,244,239,0,5
+AI,Air India,199,130,43,26
+QP,Akasa Air,190,138,48,4
+QP,Akasa Air,94,90,2,2
+AI,Air India,178,92,70,16
+UK,Vistara,265,177,19,69
+SG,SpiceJet,94,88,0,6
+AI,Air India,79,56,6,17
+6E,IndiGo,289,286,0,3
+AI,Air India,238,189,26,23
+QP,Akasa Air,101,50,14,37
+QP,Akasa Air,105,54,2,49
+SG,SpiceJet,60,48,8,4
+UK,Vistara,235,168,51,16
+UK,Vistara,99,63,34,2
+AI,Air India,172,116,31,25
+6E,IndiGo,109,88,19,2
+UK,Vistara,148,142,3,3
+6E,IndiGo,195,111,49,35
+SG,SpiceJet,226,166,30,30
+AI,Air India,147,141,3,3
+AI,Air India,68,52,1,15
+UK,Vistara,155,99,54,2
+UK,Vistara,249,237,5,7
+SG,SpiceJet,291,187,98,6
+AI,Air India,261,173,57,31
+6E,IndiGo,241,204,1,36
+6E,IndiGo,240,173,36,31
+UK,Vistara,95,79,0,16
+UK,Vistara,189,158,16,15
+6E,IndiGo,198,108,74,16
+QP,Akasa Air,54,42,8,4
+6E,IndiGo,143,109,1,33
+6E,IndiGo,117,89,17,11
+QP,Akasa Air,203,103,25,75
+QP,Akasa Air,137,79,8,50
+AI,Air India,189,165,21,3
+SG,SpiceJet,71,39,28,4
+UK,Vistara,211,153,12,46
+SG,SpiceJet,86,72,13,1
+SG,SpiceJet,215,139,73,3
+AI,Air India,274,257,3,14
+UK,Vistara,61,44,4,13
+UK,Vistara,145,85,49,11
+SG,SpiceJet,89,74,6,9
+AI,Air India,119,101,14,4
+6E,IndiGo,93,48,8,37
+QP,Akasa Air,220,205,6,9
+AI,Air India,91,66,13,12
+SG,SpiceJet,296,238,2,56
+QP,Akasa Air,91,70,12,9
+QP,Akasa Air,99,92,4,3
+QP,Akasa Air,177,172,3,2
+AI,Air India,298,242,45,11
+UK,Vistara,270,155,107,8
+SG,SpiceJet,195,144,5,46
+SG,SpiceJet,159,100,57,2
+AI,Air India,98,76,16,6
+6E,IndiGo,157,120,1,36
+SG,SpiceJet,75,52,5,18
+6E,IndiGo,276,215,2,59
+QP,Akasa Air,67,38,10,19
+QP,Akasa Air,65,58,2,5
+SG,SpiceJet,227,164,62,1
+QP,Akasa Air,131,83,18,30
+SG,SpiceJet,70,36,30,4
+QP,Akasa Air,91,64,19,8
+QP,Akasa Air,129,122,1,6
+SG,SpiceJet,122,77,36,9
+UK,Vistara,298,164,3,131
+6E,IndiGo,132,112,14,6
+QP,Akasa Air,294,294,0,0
+UK,Vistara,197,116,12,69
+SG,SpiceJet,169,139,5,25
+6E,IndiGo,101,51,33,17
+UK,Vistara,248,247,1,0
+UK,Vistara,127,80,32,15
+AI,Air India,204,164,11,29
+AI,Air India,123,119,2,2
+SG,SpiceJet,103,100,1,2
+UK,Vistara,221,209,9,3
+QP,Akasa Air,158,138,13,7
+AI,Air India,248,128,94,26
+AI,Air India,187,174,9,4
+AI,Air India,155,128,8,19
+SG,SpiceJet,100,83,16,1
+UK,Vistara,70,51,6,13
+AI,Air India,90,59,19,12
+SG,SpiceJet,297,293,0,4
+QP,Akasa Air,155,86,69,0
+QP,Akasa Air,173,161,10,2
+6E,IndiGo,145,78,66,1
+UK,Vistara,156,87,6,63
+QP,Akasa Air,104,86,11,7
+QP,Akasa Air,208,175,22,11
+SG,SpiceJet,187,121,20,46
+6E,IndiGo,53,33,19,1
+QP,Akasa Air,160,128,8,24
+QP,Akasa Air,206,148,12,46
+SG,SpiceJet,105,55,33,17
+6E,IndiGo,186,132,10,44
+SG,SpiceJet,134,103,2,29
+6E,IndiGo,298,191,45,62
+UK,Vistara,68,52,2,14
+UK,Vistara,114,101,2,11
+UK,Vistara,106,60,36,10
+QP,Akasa Air,166,138,17,11
+QP,Akasa Air,283,230,23,30
+SG,SpiceJet,245,125,110,10
+SG,SpiceJet,215,209,6,0
+6E,IndiGo,71,38,8,25
+QP,Akasa Air,130,79,31,20
+AI,Air India,169,121,39,9
+6E,IndiGo,137,137,0,0
+6E,IndiGo,152,124,22,6
+SG,SpiceJet,285,162,35,88
+SG,SpiceJet,272,184,74,14
+QP,Akasa Air,276,183,92,1
+6E,IndiGo,67,54,6,7
+SG,SpiceJet,220,119,80,21
+QP,Akasa Air,262,226,36,0
+6E,IndiGo,240,164,56,20
+SG,SpiceJet,183,161,16,6
+UK,Vistara,161,161,0,0
+6E,IndiGo,150,87,42,21
+QP,Akasa Air,240,133,46,61
+AI,Air India,89,68,2,19
+AI,Air India,177,105,4,68
+UK,Vistara,246,202,15,29
+SG,SpiceJet,117,111,6,0
+SG,SpiceJet,256,164,31,61
+AI,Air India,217,157,37,23
+AI,Air India,180,102,59,19
+UK,Vistara,184,153,12,19
+UK,Vistara,52,28,11,13
+QP,Akasa Air,198,149,38,11
+QP,Akasa Air,239,226,2,11
+SG,SpiceJet,121,91,24,6
+UK,Vistara,235,171,6,58
+AI,Air India,285,256,9,20
+AI,Air India,291,257,11,23
+6E,IndiGo,293,155,132,6
+AI,Air India,271,230,1,40
+UK,Vistara,101,66,12,23
+AI,Air India,82,46,10,26
+QP,Akasa Air,173,166,2,5
+QP,Akasa Air,62,40,4,18
+SG,SpiceJet,135,127,2,6
+AI,Air India,103,77,10,16
+QP,Akasa Air,213,189,10,14
+UK,Vistara,256,162,73,21
+SG,SpiceJet,62,57,1,4
+AI,Air India,249,150,64,35
+AI,Air India,145,95,36,14
+QP,Akasa Air,183,144,2,37
+UK,Vistara,288,248,38,2
+6E,IndiGo,73,39,34,0
+QP,Akasa Air,224,127,8,89
+AI,Air India,164,164,0,0
+QP,Akasa Air,226,195,18,13
+AI,Air India,217,217,0,0
+QP,Akasa Air,296,288,7,1
+AI,Air India,107,101,4,2
+QP,Akasa Air,225,112,80,33
+AI,Air India,50,44,4,2
+SG,SpiceJet,197,137,20,40
+SG,SpiceJet,238,197,17,24
+UK,Vistara,69,43,25,1
+6E,IndiGo,273,247,8,18
+QP,Akasa Air,64,64,0,0
+6E,IndiGo,268,204,32,32
+UK,Vistara,193,140,12,41
+UK,Vistara,267,182,38,47
+UK,Vistara,293,154,37,102
+QP,Akasa Air,245,188,9,48
+SG,SpiceJet,149,85,55,9
+AI,Air India,230,162,68,0
+SG,SpiceJet,163,125,6,32
+6E,IndiGo,279,262,4,13
+SG,SpiceJet,259,169,76,14
+AI,Air India,231,186,33,12
+AI,Air India,83,56,1,26
+AI,Air India,155,145,1,9
+SG,SpiceJet,258,165,79,14
+6E,IndiGo,249,141,1,107
+6E,IndiGo,85,80,0,5
+UK,Vistara,188,140,15,33
+6E,IndiGo,157,136,20,1
+UK,Vistara,293,161,85,47
+AI,Air India,63,53,6,4
+AI,Air India,161,127,0,34
+AI,Air India,137,127,6,4
+6E,IndiGo,225,213,2,10
+SG,SpiceJet,220,157,7,56
+AI,Air India,168,132,30,6
+AI,Air India,297,239,25,33
+6E,IndiGo,112,112,0,0
+SG,SpiceJet,181,149,23,9
+6E,IndiGo,114,99,7,8
+UK,Vistara,166,152,11,3
+QP,Akasa Air,159,152,6,1
+QP,Akasa Air,239,132,31,76
+6E,IndiGo,123,70,28,25
+SG,SpiceJet,192,140,33,19
+6E,IndiGo,148,75,34,39
+UK,Vistara,186,183,3,0
+6E,IndiGo,282,242,6,34
+UK,Vistara,199,156,43,0
+SG,SpiceJet,241,189,36,16
+SG,SpiceJet,168,127,6,35
+6E,IndiGo,102,59,12,31
+UK,Vistara,172,125,32,15
+QP,Akasa Air,222,140,59,23
+UK,Vistara,58,45,1,12
+QP,Akasa Air,169,89,2,78
+QP,Akasa Air,148,145,1,2
+QP,Akasa Air,262,213,45,4
+QP,Akasa Air,92,64,18,10
+6E,IndiGo,267,239,28,0
+QP,Akasa Air,137,113,11,13
+QP,Akasa Air,161,102,38,21
+SG,SpiceJet,171,142,29,0
+SG,SpiceJet,260,140,94,26
+6E,IndiGo,222,187,15,20
+6E,IndiGo,192,136,34,22
+6E,IndiGo,87,75,12,0
+UK,Vistara,260,179,11,70
+AI,Air India,67,50,14,3
+AI,Air India,223,179,0,44
+6E,IndiGo,173,170,1,2
+6E,IndiGo,193,192,0,1
+UK,Vistara,283,219,48,16
+6E,IndiGo,246,138,6,102
+SG,SpiceJet,194,166,1,27
+QP,Akasa Air,119,102,15,2
+UK,Vistara,284,234,40,10
+AI,Air India,161,132,5,24
+AI,Air India,269,241,24,4
+UK,Vistara,139,82,41,16
+6E,IndiGo,225,212,2,11
+AI,Air India,166,109,55,2
+6E,IndiGo,209,153,26,30
+UK,Vistara,220,123,58,39
+6E,IndiGo,171,152,9,10
+AI,Air India,74,53,1,20
+UK,Vistara,207,123,61,23
+UK,Vistara,94,55,5,34
+6E,IndiGo,78,67,11,0
+6E,IndiGo,271,191,34,46
+AI,Air India,183,113,2,68
+QP,Akasa Air,129,69,27,33
+QP,Akasa Air,76,62,0,14
+AI,Air India,101,62,27,12
+AI,Air India,101,92,2,7
+AI,Air India,258,204,19,35
+QP,Akasa Air,98,61,2,35
+SG,SpiceJet,78,58,19,1
+AI,Air India,95,75,11,9
+QP,Akasa Air,74,56,0,18
+QP,Akasa Air,267,135,105,27
+QP,Akasa Air,163,128,13,22
+SG,SpiceJet,168,92,37,39
+UK,Vistara,60,50,5,5
+UK,Vistara,234,181,33,20
+AI,Air India,225,208,0,17
+AI,Air India,266,218,23,25
+QP,Akasa Air,243,217,2,24
+UK,Vistara,294,287,3,4
+SG,SpiceJet,187,105,33,49
+SG,SpiceJet,138,96,7,35
+6E,IndiGo,164,95,1,68
+UK,Vistara,181,149,13,19
+SG,SpiceJet,280,240,13,27
+AI,Air India,186,132,39,15
+SG,SpiceJet,207,125,52,30
+AI,Air India,285,260,24,1
+AI,Air India,279,172,33,74
+UK,Vistara,228,217,5,6
+SG,SpiceJet,245,203,9,33
+QP,Akasa Air,250,127,80,43
+SG,SpiceJet,65,48,12,5
+6E,IndiGo,86,58,23,5
+SG,SpiceJet,231,184,36,11
+6E,IndiGo,198,173,3,22
+SG,SpiceJet,151,126,6,19
+SG,SpiceJet,131,117,0,14
+UK,Vistara,289,199,70,20
+UK,Vistara,55,46,7,2
+UK,Vistara,168,122,35,11
+6E,IndiGo,141,117,8,16
+6E,IndiGo,127,87,2,38
+QP,Akasa Air,239,232,4,3
+AI,Air India,60,49,11,0
+UK,Vistara,69,56,0,13
+6E,IndiGo,51,39,6,6
+QP,Akasa Air,129,114,15,0
+QP,Akasa Air,209,150,5,54
+AI,Air India,241,123,66,52
+SG,SpiceJet,266,149,49,68
+6E,IndiGo,282,169,13,100
+QP,Akasa Air,191,113,17,61
+UK,Vistara,245,133,93,19
+AI,Air India,100,92,8,0
+AI,Air India,75,44,14,17
+6E,IndiGo,298,202,19,77
+6E,IndiGo,218,218,0,0
+UK,Vistara,252,196,10,46
+UK,Vistara,85,67,16,2
+SG,SpiceJet,147,113,27,7
+UK,Vistara,158,131,27,0
+QP,Akasa Air,250,202,16,32
+AI,Air India,215,154,37,24
+6E,IndiGo,190,173,6,11
+QP,Akasa Air,59,37,6,16
+QP,Akasa Air,254,189,36,29
+SG,SpiceJet,217,126,1,90
+UK,Vistara,183,125,11,47
+SG,SpiceJet,169,88,45,36
+UK,Vistara,93,58,10,25
+SG,SpiceJet,248,178,27,43
+AI,Air India,222,190,27,5
+UK,Vistara,252,187,28,37
+6E,IndiGo,139,81,3,55
+UK,Vistara,119,111,6,2
+SG,SpiceJet,120,77,10,33
+UK,Vistara,224,140,74,10
+QP,Akasa Air,100,80,11,9
+AI,Air India,120,80,37,3
+UK,Vistara,51,38,12,1
+QP,Akasa Air,102,56,35,11
+UK,Vistara,290,226,42,22
+AI,Air India,124,101,16,7
+QP,Akasa Air,151,115,2,34
+SG,SpiceJet,190,149,21,20
+SG,SpiceJet,94,84,4,6
+6E,IndiGo,240,157,38,45
+QP,Akasa Air,80,45,13,22
+UK,Vistara,273,222,7,44
+SG,SpiceJet,198,191,2,5
+6E,IndiGo,196,111,33,52
+UK,Vistara,176,147,0,29
+UK,Vistara,134,100,16,18
+SG,SpiceJet,143,119,20,4
+UK,Vistara,180,146,2,32
+6E,IndiGo,177,103,22,52
+AI,Air India,158,133,18,7
+QP,Akasa Air,76,68,1,7
+QP,Akasa Air,289,198,17,74
+AI,Air India,86,65,14,7
+SG,SpiceJet,266,137,123,6
+UK,Vistara,57,28,9,20
+QP,Akasa Air,151,129,19,3
+UK,Vistara,79,70,4,5
+QP,Akasa Air,76,45,10,21
+SG,SpiceJet,210,196,9,5
+6E,IndiGo,121,110,8,3
+6E,IndiGo,82,79,2,1
+AI,Air India,152,150,1,1
+AI,Air India,289,155,12,122
+UK,Vistara,145,73,24,48
+6E,IndiGo,190,147,6,37
+AI,Air India,78,73,2,3
+SG,SpiceJet,299,290,1,8
+SG,SpiceJet,81,81,0,0
+UK,Vistara,106,92,0,14
+SG,SpiceJet,239,126,88,25
+AI,Air India,269,180,86,3
+QP,Akasa Air,76,58,10,8
+QP,Akasa Air,112,63,47,2
+SG,SpiceJet,230,155,40,35
+6E,IndiGo,185,133,17,35
+6E,IndiGo,158,146,8,4
+AI,Air India,208,208,0,0
+UK,Vistara,125,113,11,1
+QP,Akasa Air,105,105,0,0
+SG,SpiceJet,230,223,1,6
+6E,IndiGo,233,228,5,0
+UK,Vistara,132,126,0,6
+QP,Akasa Air,149,86,22,41
+6E,IndiGo,282,245,0,37
+AI,Air India,232,142,5,85
+AI,Air India,128,84,27,17
+UK,Vistara,215,140,16,59
+UK,Vistara,111,101,9,1
+SG,SpiceJet,287,220,16,51
+6E,IndiGo,112,70,19,23
+SG,SpiceJet,242,201,31,10
+AI,Air India,196,119,16,61
+AI,Air India,210,194,1,15
+QP,Akasa Air,56,35,10,11
+QP,Akasa Air,181,137,44,0
+QP,Akasa Air,93,89,3,1
+AI,Air India,232,228,3,1
+QP,Akasa Air,280,276,4,0
+6E,IndiGo,207,149,16,42
+SG,SpiceJet,249,238,0,11
+UK,Vistara,241,180,0,61
+6E,IndiGo,86,48,17,21
+UK,Vistara,215,188,2,25
+6E,IndiGo,69,44,25,0
+SG,SpiceJet,53,28,21,4
+SG,SpiceJet,134,71,15,48
+6E,IndiGo,207,134,11,62
+6E,IndiGo,97,51,40,6
+AI,Air India,68,61,6,1
+UK,Vistara,288,199,77,12
+UK,Vistara,211,181,18,12
+UK,Vistara,276,195,51,30
+QP,Akasa Air,295,278,0,17
+SG,SpiceJet,144,136,3,5
+UK,Vistara,126,110,15,1
+QP,Akasa Air,231,132,24,75
+6E,IndiGo,255,212,31,12
+SG,SpiceJet,184,140,14,30
+SG,SpiceJet,283,163,32,88
+QP,Akasa Air,285,238,25,22
+UK,Vistara,75,50,9,16
+SG,SpiceJet,64,39,17,8
+AI,Air India,147,99,23,25
+QP,Akasa Air,113,69,35,9
+6E,IndiGo,194,116,3,75
+SG,SpiceJet,258,132,63,63
+QP,Akasa Air,165,97,12,56
+QP,Akasa Air,223,170,9,44
+UK,Vistara,229,140,58,31
+SG,SpiceJet,80,68,5,7
+UK,Vistara,205,159,36,10
+6E,IndiGo,112,80,27,5
+SG,SpiceJet,117,61,22,34
+AI,Air India,113,96,4,13
+QP,Akasa Air,51,46,3,2
+QP,Akasa Air,112,103,3,6
+QP,Akasa Air,259,141,43,75
+QP,Akasa Air,205,171,9,25
+SG,SpiceJet,85,45,3,37
+QP,Akasa Air,241,165,55,21
+6E,IndiGo,294,293,1,0
+UK,Vistara,211,207,4,0
+QP,Akasa Air,109,102,6,1
+AI,Air India,203,193,10,0
+UK,Vistara,54,29,20,5
+UK,Vistara,176,118,20,38
+QP,Akasa Air,197,186,2,9
+SG,SpiceJet,216,108,25,83
+AI,Air India,217,137,19,61
+6E,IndiGo,280,225,34,21
+QP,Akasa Air,276,145,61,70
+SG,SpiceJet,290,262,1,27
+QP,Akasa Air,57,34,7,16
+AI,Air India,169,107,43,19
+QP,Akasa Air,288,144,11,133
+QP,Akasa Air,191,113,78,0
+6E,IndiGo,90,57,32,1
+QP,Akasa Air,51,26,25,0
+SG,SpiceJet,196,120,20,56
+AI,Air India,210,142,25,43
+QP,Akasa Air,65,60,3,2
+6E,IndiGo,142,77,12,53
+AI,Air India,289,192,86,11
+UK,Vistara,96,87,7,2
+QP,Akasa Air,141,106,27,8
+SG,SpiceJet,177,166,10,1
+AI,Air India,54,44,4,6
+QP,Akasa Air,199,129,9,61
+AI,Air India,214,135,50,29
+UK,Vistara,75,50,7,18
+AI,Air India,170,123,10,37
+SG,SpiceJet,298,151,13,134
+QP,Akasa Air,64,58,1,5
+UK,Vistara,289,185,103,1
+QP,Akasa Air,146,134,10,2
+6E,IndiGo,218,142,62,14
+UK,Vistara,298,241,50,7
+SG,SpiceJet,280,141,47,92
+SG,SpiceJet,69,63,6,0
+AI,Air India,236,233,1,2
+SG,SpiceJet,284,275,0,9
+UK,Vistara,220,184,5,31
+QP,Akasa Air,205,123,61,21
+SG,SpiceJet,176,134,7,35
+QP,Akasa Air,267,192,15,60
+AI,Air India,103,81,1,21
+6E,IndiGo,100,93,4,3
+AI,Air India,266,201,65,0
+SG,SpiceJet,207,195,0,12
+UK,Vistara,255,132,110,13
+AI,Air India,87,61,15,11
+UK,Vistara,126,84,30,12
+QP,Akasa Air,234,140,30,64
+UK,Vistara,65,36,2,27
+QP,Akasa Air,229,202,7,20
+6E,IndiGo,235,205,28,2
+6E,IndiGo,286,247,8,31
+UK,Vistara,155,87,3,65
+UK,Vistara,228,164,61,3
+SG,SpiceJet,197,181,14,2
+UK,Vistara,144,76,54,14
+UK,Vistara,258,250,4,4
+UK,Vistara,255,188,57,10
+AI,Air India,227,193,1,33
+QP,Akasa Air,58,58,0,0
+UK,Vistara,209,178,31,0
+QP,Akasa Air,202,105,10,87
+QP,Akasa Air,158,88,5,65
+AI,Air India,184,110,13,61
+AI,Air India,262,257,4,1
+AI,Air India,64,44,20,0
+6E,IndiGo,169,112,2,55
+QP,Akasa Air,132,72,42,18
+UK,Vistara,234,120,99,15
+SG,SpiceJet,247,236,2,9
+AI,Air India,291,276,6,9
+UK,Vistara,122,63,12,47
+SG,SpiceJet,174,105,4,65
+6E,IndiGo,97,53,36,8
+6E,IndiGo,256,154,91,11
+AI,Air India,266,133,4,129
+AI,Air India,173,119,17,37
+6E,IndiGo,279,165,61,53
+SG,SpiceJet,168,117,32,19
+UK,Vistara,67,39,5,23
+6E,IndiGo,169,169,0,0
+QP,Akasa Air,127,95,26,6
+QP,Akasa Air,100,61,28,11
+QP,Akasa Air,155,79,36,40
+6E,IndiGo,207,141,43,23
+6E,IndiGo,92,67,7,18
+SG,SpiceJet,154,152,2,0
+SG,SpiceJet,202,123,7,72
+6E,IndiGo,118,113,5,0
+AI,Air India,92,58,30,4
+AI,Air India,127,93,2,32
+UK,Vistara,107,92,9,6
+QP,Akasa Air,167,126,21,20
+AI,Air India,159,84,37,38
+UK,Vistara,107,98,0,9
+AI,Air India,166,100,10,56
+6E,IndiGo,244,142,61,41
+6E,IndiGo,294,227,57,10
+6E,IndiGo,110,102,7,1
+UK,Vistara,279,152,3,124
+6E,IndiGo,72,55,11,6
+AI,Air India,172,91,6,75
+SG,SpiceJet,166,145,7,14
+6E,IndiGo,156,153,3,0
+UK,Vistara,261,236,19,6
+UK,Vistara,121,92,21,8
+AI,Air India,192,96,92,4
+AI,Air India,137,77,39,21
+QP,Akasa Air,62,33,29,0
+QP,Akasa Air,265,213,26,26
+6E,IndiGo,55,31,6,18
+QP,Akasa Air,129,65,3,61
+QP,Akasa Air,284,151,62,71
+6E,IndiGo,138,115,13,10
+AI,Air India,71,61,4,6
+AI,Air India,244,152,28,64
+UK,Vistara,113,72,21,20
+SG,SpiceJet,126,76,50,0
+UK,Vistara,176,155,4,17
+AI,Air India,167,86,22,59
+UK,Vistara,240,203,0,37
+6E,IndiGo,139,108,20,11
+QP,Akasa Air,155,82,69,4
+6E,IndiGo,216,199,17,0
+UK,Vistara,243,143,8,92
+SG,SpiceJet,148,85,38,25
+QP,Akasa Air,156,138,0,18
+AI,Air India,253,160,51,42
+SG,SpiceJet,68,62,5,1
+QP,Akasa Air,173,115,26,32
+6E,IndiGo,284,167,43,74
+UK,Vistara,275,179,74,22
+SG,SpiceJet,233,216,5,12
+6E,IndiGo,191,107,57,27
+SG,SpiceJet,56,31,17,8
+AI,Air India,189,148,17,24
+6E,IndiGo,117,85,15,17
+QP,Akasa Air,234,134,78,22
+AI,Air India,132,107,21,4
+QP,Akasa Air,77,62,15,0
+6E,IndiGo,64,39,1,24
+QP,Akasa Air,148,115,2,31
+AI,Air India,112,73,38,1
+QP,Akasa Air,190,134,20,36
+6E,IndiGo,117,78,39,0
+UK,Vistara,109,57,29,23
+UK,Vistara,103,78,21,4
+QP,Akasa Air,217,186,3,28
+QP,Akasa Air,297,235,7,55
+6E,IndiGo,121,116,2,3
+SG,SpiceJet,218,179,19,20
+AI,Air India,261,206,37,18
+QP,Akasa Air,167,110,36,21
+6E,IndiGo,97,48,9,40
+AI,Air India,199,145,15,39
+SG,SpiceJet,148,129,8,11
+AI,Air India,195,183,1,11
+AI,Air India,92,61,16,15
+6E,IndiGo,68,64,0,4
+6E,IndiGo,247,215,6,26
+UK,Vistara,130,71,4,55
+QP,Akasa Air,262,148,81,33
+QP,Akasa Air,118,63,15,40
+AI,Air India,238,209,13,16
+SG,SpiceJet,273,269,1,3
+SG,SpiceJet,271,230,4,37
+6E,IndiGo,91,87,4,0
+6E,IndiGo,218,198,20,0
+SG,SpiceJet,54,33,6,15
+QP,Akasa Air,260,149,97,14
+6E,IndiGo,233,214,14,5
+SG,SpiceJet,166,98,53,15
+QP,Akasa Air,162,134,9,19
+UK,Vistara,155,107,29,19
+6E,IndiGo,77,55,1,21
+SG,SpiceJet,130,120,2,8
+6E,IndiGo,171,92,47,32
+SG,SpiceJet,81,51,18,12
+UK,Vistara,108,63,2,43
+SG,SpiceJet,68,63,1,4
+SG,SpiceJet,133,103,3,27
+QP,Akasa Air,69,58,5,6
+QP,Akasa Air,252,160,55,37
+6E,IndiGo,66,46,3,17
+QP,Akasa Air,126,122,0,4
+6E,IndiGo,265,133,3,129
+UK,Vistara,243,162,11,70
+6E,IndiGo,74,65,5,4
+QP,Akasa Air,103,80,17,6
+QP,Akasa Air,141,113,12,16
+6E,IndiGo,203,178,12,13
+QP,Akasa Air,218,169,2,47
+QP,Akasa Air,168,142,23,3
+AI,Air India,122,78,1,43
+AI,Air India,266,179,69,18
+6E,IndiGo,289,180,14,95
+QP,Akasa Air,193,187,4,2
+AI,Air India,114,70,28,16
+QP,Akasa Air,284,252,23,9
+AI,Air India,271,188,21,62
+AI,Air India,218,149,65,4
+QP,Akasa Air,152,142,8,2
+SG,SpiceJet,129,64,38,27
+6E,IndiGo,263,155,43,65
+AI,Air India,269,174,44,51
+SG,SpiceJet,282,214,16,52
+6E,IndiGo,146,90,41,15
+AI,Air India,197,185,6,6
+QP,Akasa Air,271,170,100,1
+AI,Air India,258,220,1,37
+6E,IndiGo,133,111,3,19
+6E,IndiGo,137,130,5,2
+UK,Vistara,162,143,9,10
+QP,Akasa Air,177,171,0,6
+AI,Air India,253,126,47,80
+UK,Vistara,171,91,37,43
+SG,SpiceJet,92,84,0,8
+SG,SpiceJet,189,155,29,5
+SG,SpiceJet,203,106,30,67
+6E,IndiGo,257,130,89,38
+6E,IndiGo,200,192,6,2
+SG,SpiceJet,51,33,7,11
+6E,IndiGo,229,156,27,46
+QP,Akasa Air,218,166,50,2
+6E,IndiGo,292,279,1,12
+6E,IndiGo,245,126,110,9
+SG,SpiceJet,156,103,41,12
+SG,SpiceJet,285,255,16,14
+6E,IndiGo,253,226,2,25
+QP,Akasa Air,95,76,1,18
+SG,SpiceJet,174,149,3,22
+SG,SpiceJet,126,102,19,5
+AI,Air India,287,271,16,0
+QP,Akasa Air,82,63,18,1
+UK,Vistara,201,199,2,0
+UK,Vistara,186,127,49,10
+UK,Vistara,290,199,72,19
+AI,Air India,56,40,4,12
+6E,IndiGo,235,157,0,78
+6E,IndiGo,175,138,29,8
+AI,Air India,187,146,37,4
+6E,IndiGo,238,126,63,49
+QP,Akasa Air,181,179,1,1
+QP,Akasa Air,122,61,61,0
+SG,SpiceJet,233,209,16,8
+6E,IndiGo,99,79,18,2
+AI,Air India,185,107,43,35
+SG,SpiceJet,235,166,20,49
+QP,Akasa Air,143,124,0,19
+UK,Vistara,93,90,3,0
+QP,Akasa Air,297,172,101,24
+UK,Vistara,198,191,6,1
+6E,IndiGo,136,90,1,45
+SG,SpiceJet,212,196,12,4
+UK,Vistara,200,121,6,73
+SG,SpiceJet,234,174,4,56
+SG,SpiceJet,181,123,54,4
+UK,Vistara,179,171,6,2
+AI,Air India,265,212,0,53
+QP,Akasa Air,69,36,18,15
+AI,Air India,148,130,12,6
+QP,Akasa Air,169,153,10,6
+QP,Akasa Air,173,94,35,44
+UK,Vistara,198,112,7,79
+SG,SpiceJet,232,223,7,2
+QP,Akasa Air,298,211,56,31
+SG,SpiceJet,211,155,55,1
+QP,Akasa Air,85,54,10,21
+QP,Akasa Air,241,139,72,30
+6E,IndiGo,193,193,0,0
+6E,IndiGo,244,237,2,5
+AI,Air India,155,106,20,29
+AI,Air India,213,156,11,46
+AI,Air India,221,216,3,2
+QP,Akasa Air,121,105,2,14
+UK,Vistara,273,190,31,52
+AI,Air India,270,167,97,6
+QP,Akasa Air,51,28,23,0
+UK,Vistara,241,141,89,11
+UK,Vistara,68,37,13,18
+UK,Vistara,271,149,92,30
+SG,SpiceJet,183,128,13,42
+AI,Air India,299,179,94,26
+AI,Air India,68,35,22,11
+UK,Vistara,208,206,2,0
+UK,Vistara,241,202,5,34
+UK,Vistara,264,259,1,4
+SG,SpiceJet,144,99,45,0
+QP,Akasa Air,82,63,5,14
+AI,Air India,96,71,22,3
+AI,Air India,102,102,0,0
+AI,Air India,249,146,86,17
+6E,IndiGo,71,35,32,4
+QP,Akasa Air,271,236,4,31
+UK,Vistara,255,130,82,43
+UK,Vistara,241,209,19,13
+AI,Air India,144,127,11,6
+AI,Air India,186,147,5,34
+QP,Akasa Air,243,177,27,39
+AI,Air India,225,182,4,39
+6E,IndiGo,83,74,3,6
+6E,IndiGo,132,121,6,5
+6E,IndiGo,170,101,58,11
+6E,IndiGo,119,108,10,1
+6E,IndiGo,84,67,9,8
+QP,Akasa Air,208,141,52,15
+UK,Vistara,73,60,1,12
+6E,IndiGo,68,54,6,8
+6E,IndiGo,72,44,24,4
+6E,IndiGo,133,76,51,6
+SG,SpiceJet,102,61,22,19
+6E,IndiGo,119,69,10,40
+SG,SpiceJet,141,100,33,8
+AI,Air India,287,241,13,33
+QP,Akasa Air,203,156,46,1
+UK,Vistara,122,100,17,5
+QP,Akasa Air,146,86,54,6
+AI,Air India,199,193,0,6
+UK,Vistara,270,170,26,74
+UK,Vistara,227,128,10,89
+SG,SpiceJet,177,97,38,42
+AI,Air India,272,233,33,6
+UK,Vistara,299,185,93,21
+SG,SpiceJet,179,101,64,14
+SG,SpiceJet,226,124,69,33
+QP,Akasa Air,100,62,11,27
+QP,Akasa Air,238,209,10,19
+UK,Vistara,162,159,2,1
+QP,Akasa Air,170,88,58,24
+6E,IndiGo,209,151,46,12
+AI,Air India,159,114,34,11
+SG,SpiceJet,283,182,16,85
+QP,Akasa Air,89,84,1,4
+UK,Vistara,126,89,20,17
+SG,SpiceJet,83,80,3,0
+QP,Akasa Air,173,114,19,40
+6E,IndiGo,96,54,0,42
+QP,Akasa Air,124,67,15,42
+UK,Vistara,92,47,18,27
+6E,IndiGo,162,127,26,9
+AI,Air India,118,63,46,9
+AI,Air India,188,110,17,61
+AI,Air India,289,240,11,38
+6E,IndiGo,198,118,65,15
+6E,IndiGo,275,252,10,13
+AI,Air India,60,52,5,3
+UK,Vistara,279,205,27,47
+QP,Akasa Air,200,187,11,2
+SG,SpiceJet,241,156,21,64
+6E,IndiGo,208,179,19,10
+SG,SpiceJet,57,37,2,18
+SG,SpiceJet,209,209,0,0
+UK,Vistara,113,60,48,5
+6E,IndiGo,78,72,6,0
+QP,Akasa Air,217,120,77,20
+UK,Vistara,208,159,16,33
+AI,Air India,89,81,1,7
+AI,Air India,54,31,9,14
+6E,IndiGo,70,65,5,0
+6E,IndiGo,83,49,10,24
+6E,IndiGo,84,47,30,7
+AI,Air India,90,46,11,33
+6E,IndiGo,264,148,66,50
+6E,IndiGo,226,214,9,3
+AI,Air India,285,262,11,12
+SG,SpiceJet,53,27,22,4
+AI,Air India,56,55,0,1
+UK,Vistara,280,143,43,94
+UK,Vistara,280,262,17,1
+6E,IndiGo,84,59,23,2
+6E,IndiGo,59,50,5,4
+UK,Vistara,96,73,1,22
+6E,IndiGo,135,83,35,17
+UK,Vistara,148,108,39,1
+AI,Air India,151,149,2,0
+SG,SpiceJet,189,188,1,0
+6E,IndiGo,284,162,14,108
+AI,Air India,68,60,0,8
+UK,Vistara,57,55,2,0
+AI,Air India,146,103,39,4
+QP,Akasa Air,81,81,0,0
+6E,IndiGo,168,101,57,10
+QP,Akasa Air,143,134,1,8
+QP,Akasa Air,252,178,73,1
+AI,Air India,65,43,13,9
+SG,SpiceJet,241,231,7,3
+6E,IndiGo,300,268,7,25
+UK,Vistara,158,118,8,32
+6E,IndiGo,118,114,2,2
+6E,IndiGo,259,253,2,4
+QP,Akasa Air,53,36,3,14
+AI,Air India,184,158,11,15
+QP,Akasa Air,183,138,26,19
+UK,Vistara,253,224,3,26
+SG,SpiceJet,135,98,30,7
+AI,Air India,244,132,96,16
+6E,IndiGo,169,141,9,19
+UK,Vistara,148,89,16,43
+UK,Vistara,256,249,3,4
+QP,Akasa Air,168,121,37,10
+SG,SpiceJet,211,106,29,76
+AI,Air India,201,131,47,23
+QP,Akasa Air,67,66,1,0
+SG,SpiceJet,127,72,27,28
+UK,Vistara,205,110,53,42
+SG,SpiceJet,211,203,7,1
+QP,Akasa Air,163,125,28,10
+AI,Air India,249,224,14,11
+UK,Vistara,254,200,30,24
+QP,Akasa Air,120,101,8,11
+UK,Vistara,182,105,73,4
+UK,Vistara,248,180,45,23
+SG,SpiceJet,148,127,16,5
+QP,Akasa Air,147,103,15,29
+UK,Vistara,235,134,21,80
+QP,Akasa Air,193,100,80,13
+AI,Air India,59,33,15,11
+6E,IndiGo,259,176,56,27
+UK,Vistara,87,77,4,6
+AI,Air India,67,33,10,24
+6E,IndiGo,68,52,6,10
+SG,SpiceJet,283,268,6,9
+QP,Akasa Air,92,53,22,17
+QP,Akasa Air,235,121,72,42
+QP,Akasa Air,140,87,1,52
+AI,Air India,285,240,11,34
+QP,Akasa Air,151,87,44,20
+QP,Akasa Air,268,244,18,6
+UK,Vistara,123,77,39,7
+UK,Vistara,159,81,37,41
+AI,Air India,297,170,99,28
+6E,IndiGo,190,144,33,13
+6E,IndiGo,85,64,6,15
+SG,SpiceJet,82,49,27,6
+UK,Vistara,213,119,39,55
+QP,Akasa Air,139,87,27,25
+AI,Air India,188,135,44,9
+SG,SpiceJet,106,53,4,49
+UK,Vistara,261,158,53,50
+UK,Vistara,102,58,30,14
+AI,Air India,206,114,52,40
+QP,Akasa Air,175,119,45,11
+QP,Akasa Air,244,218,24,2
+SG,SpiceJet,202,144,37,21
+SG,SpiceJet,182,170,3,9
+QP,Akasa Air,295,180,105,10
+SG,SpiceJet,212,164,33,15
+AI,Air India,140,92,28,20
+QP,Akasa Air,195,157,2,36
+QP,Akasa Air,284,242,35,7
+QP,Akasa Air,266,157,63,46
+UK,Vistara,148,101,5,42
+UK,Vistara,145,131,3,11
+AI,Air India,300,187,16,97
+QP,Akasa Air,131,103,16,12
+UK,Vistara,234,171,1,62
+AI,Air India,258,207,37,14
+AI,Air India,79,79,0,0
+6E,IndiGo,191,127,24,40
+6E,IndiGo,168,155,1,12
+QP,Akasa Air,253,160,41,52
+6E,IndiGo,121,98,9,14
+UK,Vistara,300,232,42,26
+QP,Akasa Air,192,185,4,3
+SG,SpiceJet,190,181,0,9
+SG,SpiceJet,71,41,20,10
+QP,Akasa Air,243,240,3,0
+AI,Air India,278,234,38,6
+6E,IndiGo,276,140,34,102
+SG,SpiceJet,136,103,31,2
+QP,Akasa Air,247,148,42,57
+AI,Air India,90,88,2,0
+AI,Air India,160,110,2,48
+6E,IndiGo,151,115,11,25
+QP,Akasa Air,57,44,1,12
+AI,Air India,168,100,53,15
+AI,Air India,255,212,36,7
+UK,Vistara,264,209,52,3
+UK,Vistara,108,79,23,6
+QP,Akasa Air,114,90,23,1
+SG,SpiceJet,199,158,14,27
+SG,SpiceJet,245,151,63,31
+6E,IndiGo,83,56,22,5
+6E,IndiGo,300,256,30,14
+SG,SpiceJet,81,51,1,29
+SG,SpiceJet,57,54,3,0
+AI,Air India,104,74,2,28
+SG,SpiceJet,53,33,7,13
+AI,Air India,91,85,2,4
+QP,Akasa Air,221,215,1,5
+SG,SpiceJet,203,129,61,13
+QP,Akasa Air,156,136,6,14
+SG,SpiceJet,201,155,4,42
+UK,Vistara,259,253,4,2
+SG,SpiceJet,107,84,8,15
+AI,Air India,296,275,0,21
+UK,Vistara,81,58,0,23
+UK,Vistara,262,250,12,0
+6E,IndiGo,270,193,71,6
+QP,Akasa Air,52,47,0,5
+QP,Akasa Air,234,181,2,51
+QP,Akasa Air,295,173,30,92
+AI,Air India,287,203,68,16
+AI,Air India,75,60,14,1
+AI,Air India,199,145,21,33
+UK,Vistara,251,125,123,3
+SG,SpiceJet,267,160,76,31
+SG,SpiceJet,165,156,6,3
+6E,IndiGo,81,49,5,27
+6E,IndiGo,210,107,38,65
+QP,Akasa Air,169,144,12,13
+AI,Air India,85,65,20,0
+UK,Vistara,267,142,118,7
+SG,SpiceJet,177,168,1,8
+6E,IndiGo,215,211,2,2
+SG,SpiceJet,154,143,6,5
+SG,SpiceJet,131,66,34,31
+6E,IndiGo,179,123,27,29
+QP,Akasa Air,270,136,112,22
+UK,Vistara,152,150,1,1
+6E,IndiGo,108,76,22,10
+QP,Akasa Air,224,131,2,91
+UK,Vistara,113,108,1,4
+AI,Air India,216,199,16,1
+AI,Air India,100,94,3,3
+QP,Akasa Air,65,61,1,3
+6E,IndiGo,224,217,3,4
+SG,SpiceJet,165,132,17,16
+SG,SpiceJet,291,206,78,7
+6E,IndiGo,270,138,68,64
+6E,IndiGo,165,126,5,34
+SG,SpiceJet,220,155,43,22
+UK,Vistara,153,121,10,22
+QP,Akasa Air,53,31,0,22
+AI,Air India,149,98,43,8
+QP,Akasa Air,221,160,48,13
+6E,IndiGo,102,76,21,5
+AI,Air India,114,69,7,38
+AI,Air India,174,103,47,24
+AI,Air India,105,52,49,4
+UK,Vistara,280,246,28,6
+AI,Air India,83,58,25,0
+6E,IndiGo,80,48,7,25
+6E,IndiGo,279,253,17,9
+QP,Akasa Air,127,80,0,47
+QP,Akasa Air,56,33,20,3
+SG,SpiceJet,158,92,8,58
+UK,Vistara,284,274,2,8
+UK,Vistara,137,83,13,41
+QP,Akasa Air,255,136,71,48
+SG,SpiceJet,107,77,16,14
+UK,Vistara,97,56,40,1
+UK,Vistara,202,115,58,29
+SG,SpiceJet,176,130,3,43
+SG,SpiceJet,199,135,51,13
+SG,SpiceJet,200,179,7,14
+AI,Air India,175,99,22,54
+AI,Air India,72,50,12,10
+AI,Air India,265,161,46,58
+UK,Vistara,229,221,7,1
+AI,Air India,198,187,2,9
+SG,SpiceJet,239,164,73,2
+QP,Akasa Air,91,89,0,2
+UK,Vistara,176,126,16,34
+UK,Vistara,270,264,4,2
+QP,Akasa Air,56,43,2,11
+6E,IndiGo,152,123,6,23
+QP,Akasa Air,263,140,37,86
+UK,Vistara,239,156,77,6
+UK,Vistara,185,108,52,25
+UK,Vistara,216,118,39,59
+AI,Air India,180,113,4,63
+AI,Air India,157,104,8,45
+UK,Vistara,284,203,65,16
+UK,Vistara,300,202,35,63
+6E,IndiGo,220,135,7,78
+6E,IndiGo,266,171,76,19
+UK,Vistara,220,128,42,50
+6E,IndiGo,128,72,34,22
+SG,SpiceJet,198,172,22,4
+6E,IndiGo,219,165,2,52
+SG,SpiceJet,135,85,3,47
+AI,Air India,222,180,23,19
+UK,Vistara,260,260,0,0
+QP,Akasa Air,258,187,12,59
+SG,SpiceJet,234,216,15,3
+SG,SpiceJet,67,61,4,2
+AI,Air India,295,195,93,7
+AI,Air India,82,81,0,1
+QP,Akasa Air,300,212,86,2
+AI,Air India,195,140,27,28
+QP,Akasa Air,86,59,14,13
+6E,IndiGo,210,109,66,35
+UK,Vistara,247,209,31,7
+QP,Akasa Air,253,215,14,24
+AI,Air India,103,80,7,16
+QP,Akasa Air,217,164,39,14
+AI,Air India,199,197,2,0
+UK,Vistara,64,34,25,5
+AI,Air India,273,263,5,5
+UK,Vistara,74,62,3,9
+SG,SpiceJet,237,214,20,3
+QP,Akasa Air,278,208,19,51
+AI,Air India,191,105,40,46
+6E,IndiGo,55,46,2,7
+6E,IndiGo,250,175,27,48
+QP,Akasa Air,239,220,1,18
+QP,Akasa Air,61,37,15,9
+QP,Akasa Air,67,55,2,10
+SG,SpiceJet,136,72,49,15
+6E,IndiGo,189,180,1,8
+SG,SpiceJet,66,55,2,9
+AI,Air India,292,240,34,18
+QP,Akasa Air,53,51,2,0
+AI,Air India,226,192,25,9
+6E,IndiGo,191,191,0,0
+AI,Air India,67,50,4,13
+SG,SpiceJet,60,32,22,6
+QP,Akasa Air,220,209,4,7
+AI,Air India,254,245,4,5
+6E,IndiGo,186,163,22,1
+SG,SpiceJet,79,70,9,0
+SG,SpiceJet,56,50,3,3
+UK,Vistara,236,151,20,65
+6E,IndiGo,104,61,3,40
+SG,SpiceJet,276,206,28,42
+6E,IndiGo,283,145,105,33
+UK,Vistara,175,99,30,46
+AI,Air India,114,85,2,27
+SG,SpiceJet,240,199,37,4
+AI,Air India,290,178,57,55
+6E,IndiGo,229,191,12,26
+UK,Vistara,62,33,18,11
+6E,IndiGo,57,56,1,0
+UK,Vistara,120,69,17,34
+UK,Vistara,270,254,0,16
+AI,Air India,111,100,6,5
+SG,SpiceJet,76,59,2,15
+QP,Akasa Air,218,145,56,17
+QP,Akasa Air,193,128,48,17
+UK,Vistara,140,91,26,23
+AI,Air India,141,102,7,32
+QP,Akasa Air,95,56,31,8
+SG,SpiceJet,151,76,27,48
+AI,Air India,164,100,18,46
+SG,SpiceJet,269,243,6,20
+AI,Air India,212,140,64,8
+UK,Vistara,125,65,15,45
+QP,Akasa Air,230,165,26,39
+UK,Vistara,169,129,13,27
+SG,SpiceJet,210,196,9,5
+6E,IndiGo,94,73,4,17
+SG,SpiceJet,139,80,31,28
+QP,Akasa Air,140,107,9,24
+QP,Akasa Air,199,146,32,21
+SG,SpiceJet,150,76,10,64
+6E,IndiGo,233,191,40,2
+UK,Vistara,178,148,10,20
+QP,Akasa Air,274,203,69,2
+SG,SpiceJet,260,228,22,10
+AI,Air India,274,155,90,29
+UK,Vistara,300,180,55,65
+QP,Akasa Air,293,146,71,76
+AI,Air India,248,236,8,4
+SG,SpiceJet,196,119,15,62
+SG,SpiceJet,122,114,2,6
+UK,Vistara,81,45,10,26
+6E,IndiGo,55,35,19,1
+QP,Akasa Air,105,53,21,31
+AI,Air India,205,166,8,31
+AI,Air India,274,243,22,9
+UK,Vistara,197,128,41,28
+QP,Akasa Air,251,176,47,28
+QP,Akasa Air,297,154,136,7
+UK,Vistara,67,52,2,13
+SG,SpiceJet,146,107,14,25
+AI,Air India,273,254,19,0
+UK,Vistara,279,244,26,9
+AI,Air India,261,220,5,36
+6E,IndiGo,70,51,18,1
+UK,Vistara,133,96,1,36
+SG,SpiceJet,161,159,0,2
+SG,SpiceJet,133,92,32,9
+AI,Air India,265,214,48,3
+UK,Vistara,296,277,8,11
+AI,Air India,253,184,2,67
+AI,Air India,111,69,12,30
+QP,Akasa Air,132,126,5,1
+6E,IndiGo,287,149,26,112
+AI,Air India,143,117,4,22
+SG,SpiceJet,113,79,13,21
+SG,SpiceJet,61,50,2,9
+UK,Vistara,110,107,3,0
+QP,Akasa Air,157,118,6,33
+QP,Akasa Air,135,112,8,15
+6E,IndiGo,200,184,1,15
+AI,Air India,104,78,12,14
+6E,IndiGo,299,156,46,97
+SG,SpiceJet,281,207,12,62
+AI,Air India,74,71,0,3
+QP,Akasa Air,143,138,5,0
+QP,Akasa Air,214,135,28,51
+AI,Air India,60,35,24,1
+AI,Air India,120,77,13,30
+QP,Akasa Air,133,124,8,1
+UK,Vistara,297,175,118,4
+6E,IndiGo,261,256,2,3
+6E,IndiGo,243,158,41,44
+UK,Vistara,199,155,2,42
+SG,SpiceJet,149,116,23,10
+6E,IndiGo,213,191,1,21
+SG,SpiceJet,59,54,1,4
+AI,Air India,247,132,9,106
+6E,IndiGo,198,138,8,52
+AI,Air India,298,178,92,28
+UK,Vistara,193,147,20,26
+UK,Vistara,53,40,13,0
+UK,Vistara,227,152,20,55
+AI,Air India,104,57,25,22
+AI,Air India,220,219,0,1
+6E,IndiGo,93,90,2,1
+SG,SpiceJet,291,180,74,37
+UK,Vistara,99,94,5,0
+6E,IndiGo,272,176,70,26
+QP,Akasa Air,274,226,34,14
+6E,IndiGo,52,31,3,18
+QP,Akasa Air,282,250,6,26
+AI,Air India,104,67,15,22
+SG,SpiceJet,112,102,7,3
+6E,IndiGo,161,109,25,27
+6E,IndiGo,281,191,88,2
+6E,IndiGo,131,119,7,5
+UK,Vistara,119,63,0,56
+SG,SpiceJet,81,67,9,5
+QP,Akasa Air,231,204,17,10
+SG,SpiceJet,277,164,88,25
+SG,SpiceJet,231,115,72,44
+SG,SpiceJet,211,179,29,3
+AI,Air India,285,204,0,81
+AI,Air India,101,80,0,21
+SG,SpiceJet,138,94,35,9
+QP,Akasa Air,69,66,0,3
+6E,IndiGo,178,133,1,44
+AI,Air India,55,54,0,1
+SG,SpiceJet,179,174,0,5
+QP,Akasa Air,75,59,11,5
+AI,Air India,277,148,65,64
+QP,Akasa Air,51,27,8,16
+6E,IndiGo,263,193,44,26
+UK,Vistara,193,108,43,42
+SG,SpiceJet,161,98,1,62
+QP,Akasa Air,153,104,11,38
+6E,IndiGo,150,125,23,2
+QP,Akasa Air,180,133,16,31
+UK,Vistara,107,104,3,0
+SG,SpiceJet,113,69,13,31
+SG,SpiceJet,143,120,9,14
+QP,Akasa Air,171,129,20,22
+SG,SpiceJet,53,29,13,11
+AI,Air India,112,106,3,3
+QP,Akasa Air,299,164,20,115
+UK,Vistara,130,90,40,0
+6E,IndiGo,131,118,11,2
+6E,IndiGo,244,227,11,6
+6E,IndiGo,63,53,8,2
+6E,IndiGo,160,151,4,5
+SG,SpiceJet,55,39,11,5
+SG,SpiceJet,262,241,14,7
+6E,IndiGo,229,179,45,5
+QP,Akasa Air,176,116,37,23
+QP,Akasa Air,142,114,11,17
+UK,Vistara,162,132,6,24
+AI,Air India,69,61,8,0
+6E,IndiGo,212,150,11,51
+6E,IndiGo,280,273,0,7
+6E,IndiGo,119,85,11,23
+UK,Vistara,50,44,4,2
+6E,IndiGo,186,110,36,40
+AI,Air India,169,102,1,66
+6E,IndiGo,174,128,11,35
+SG,SpiceJet,280,198,44,38
+UK,Vistara,125,124,0,1
+UK,Vistara,231,141,62,28
+SG,SpiceJet,191,119,8,64
+AI,Air India,128,95,0,33
+6E,IndiGo,241,153,41,47
+AI,Air India,274,262,6,6
+UK,Vistara,87,86,1,0
+6E,IndiGo,129,67,58,4
+AI,Air India,213,191,19,3
+6E,IndiGo,243,152,12,79
+6E,IndiGo,103,99,4,0
+6E,IndiGo,220,200,2,18
+AI,Air India,159,108,39,12
+AI,Air India,182,127,23,32
+QP,Akasa Air,161,118,6,37
+SG,SpiceJet,257,234,21,2
+6E,IndiGo,122,99,5,18
+SG,SpiceJet,137,130,0,7
+AI,Air India,223,179,5,39
+UK,Vistara,50,44,3,3
+AI,Air India,263,164,89,10
+AI,Air India,200,150,1,49
+6E,IndiGo,103,73,22,8
+UK,Vistara,279,233,34,12
+SG,SpiceJet,141,84,15,42
+QP,Akasa Air,133,95,24,14
+SG,SpiceJet,65,58,4,3
+SG,SpiceJet,235,230,1,4
+QP,Akasa Air,56,49,1,6
+6E,IndiGo,186,142,42,2
+QP,Akasa Air,156,139,8,9
+QP,Akasa Air,291,181,35,75
+QP,Akasa Air,224,122,42,60
+SG,SpiceJet,68,43,3,22
+6E,IndiGo,59,42,5,12
+QP,Akasa Air,157,130,7,20
+QP,Akasa Air,106,82,0,24
+UK,Vistara,137,111,1,25
+UK,Vistara,293,157,6,130
+6E,IndiGo,97,49,30,18
+QP,Akasa Air,161,107,14,40
+6E,IndiGo,177,113,5,59
+SG,SpiceJet,50,44,2,4
+6E,IndiGo,250,208,1,41
+QP,Akasa Air,162,93,0,69
+6E,IndiGo,168,99,22,47
+QP,Akasa Air,145,88,47,10
+QP,Akasa Air,146,112,18,16
+6E,IndiGo,102,55,28,19
+SG,SpiceJet,119,97,21,1
+AI,Air India,263,214,35,14
+AI,Air India,96,56,18,22
+SG,SpiceJet,300,256,16,28
+UK,Vistara,176,175,1,0
+AI,Air India,127,68,16,43
+6E,IndiGo,65,50,1,14
+6E,IndiGo,64,38,6,20
+6E,IndiGo,154,84,11,59
+AI,Air India,128,71,21,36
+SG,SpiceJet,135,110,6,19
+SG,SpiceJet,71,67,4,0
+SG,SpiceJet,75,45,29,1
+AI,Air India,266,140,59,67
+SG,SpiceJet,297,257,27,13
+QP,Akasa Air,108,97,1,10
+6E,IndiGo,120,88,31,1
+QP,Akasa Air,179,91,6,82
+UK,Vistara,290,194,39,57
+AI,Air India,196,152,7,37
+QP,Akasa Air,228,196,7,25
+QP,Akasa Air,191,182,6,3
+6E,IndiGo,101,79,14,8
+6E,IndiGo,238,179,28,31
+QP,Akasa Air,283,187,96,0
+UK,Vistara,143,76,32,35
+AI,Air India,214,133,55,26
+SG,SpiceJet,262,261,1,0
+UK,Vistara,98,54,28,16
+UK,Vistara,285,166,50,69
+6E,IndiGo,180,173,4,3
+UK,Vistara,217,139,60,18
+SG,SpiceJet,136,100,18,18
+6E,IndiGo,229,195,4,30
+SG,SpiceJet,78,56,17,5
+SG,SpiceJet,160,154,1,5
+AI,Air India,59,42,12,5
+QP,Akasa Air,112,108,0,4
+QP,Akasa Air,222,171,42,9
+QP,Akasa Air,246,156,56,34
+SG,SpiceJet,154,113,36,5
+SG,SpiceJet,242,219,13,10
+QP,Akasa Air,234,197,17,20
+QP,Akasa Air,87,69,10,8
+6E,IndiGo,77,76,0,1
+SG,SpiceJet,68,62,5,1
+6E,IndiGo,232,199,9,24
+QP,Akasa Air,174,108,5,61
+QP,Akasa Air,116,84,2,30
+SG,SpiceJet,196,141,39,16
+6E,IndiGo,108,59,11,38
+SG,SpiceJet,165,100,55,10
+6E,IndiGo,82,79,3,0
+6E,IndiGo,88,85,0,3
+UK,Vistara,299,285,3,11
+AI,Air India,210,169,29,12
+UK,Vistara,210,210,0,0
+AI,Air India,97,59,28,10
+UK,Vistara,151,95,29,27
+6E,IndiGo,217,187,21,9
+6E,IndiGo,188,110,29,49
+SG,SpiceJet,172,169,1,2
+AI,Air India,214,148,18,48
+AI,Air India,145,115,5,25
+SG,SpiceJet,192,107,22,63
+AI,Air India,248,137,41,70
+6E,IndiGo,197,189,3,5
+SG,SpiceJet,204,200,0,4
+QP,Akasa Air,298,153,0,145
+QP,Akasa Air,171,149,10,12
+QP,Akasa Air,240,213,6,21
+QP,Akasa Air,262,151,108,3
+AI,Air India,273,215,44,14
+UK,Vistara,242,155,84,3
+QP,Akasa Air,74,66,4,4
+SG,SpiceJet,209,114,57,38
+QP,Akasa Air,229,143,11,75
+QP,Akasa Air,51,36,4,11
+AI,Air India,100,64,31,5
+QP,Akasa Air,112,70,36,6
+6E,IndiGo,235,146,79,10
+6E,IndiGo,73,53,1,19
+UK,Vistara,82,68,14,0
+UK,Vistara,266,202,62,2
+6E,IndiGo,240,164,55,21
+AI,Air India,186,120,13,53
+6E,IndiGo,275,165,51,59
+AI,Air India,69,69,0,0
+6E,IndiGo,227,128,96,3
+SG,SpiceJet,181,149,9,23
+AI,Air India,260,188,8,64
+6E,IndiGo,140,124,11,5
+SG,SpiceJet,223,180,34,9
+QP,Akasa Air,65,54,6,5
+AI,Air India,243,159,13,71
+QP,Akasa Air,130,87,35,8
+SG,SpiceJet,95,60,21,14
+6E,IndiGo,220,220,0,0
+6E,IndiGo,57,28,10,19
+AI,Air India,282,247,32,3
+6E,IndiGo,87,54,28,5
+UK,Vistara,51,50,0,1
+SG,SpiceJet,186,180,3,3
+UK,Vistara,243,213,2,28
+AI,Air India,82,55,8,19
+UK,Vistara,257,191,51,15
+SG,SpiceJet,141,115,26,0
+QP,Akasa Air,174,90,21,63
+6E,IndiGo,175,105,66,4
+6E,IndiGo,121,92,5,24
+6E,IndiGo,277,194,75,8
+AI,Air India,59,35,3,21
+SG,SpiceJet,213,160,49,4
+AI,Air India,139,136,2,1
+SG,SpiceJet,125,117,5,3
+SG,SpiceJet,74,64,5,5
+SG,SpiceJet,270,211,50,9
+UK,Vistara,100,87,4,9
+6E,IndiGo,174,138,5,31
+6E,IndiGo,157,82,70,5
+SG,SpiceJet,203,110,61,32
+QP,Akasa Air,67,38,18,11
+SG,SpiceJet,59,47,9,3
+AI,Air India,76,39,25,12
+6E,IndiGo,197,167,19,11
+AI,Air India,102,66,7,29
+AI,Air India,75,37,21,17
+QP,Akasa Air,253,165,25,63
+UK,Vistara,141,128,12,1
+6E,IndiGo,89,77,3,9
+QP,Akasa Air,295,198,87,10
+QP,Akasa Air,285,161,84,40
+SG,SpiceJet,93,69,0,24
+6E,IndiGo,137,103,28,6
+UK,Vistara,136,81,37,18
+UK,Vistara,187,186,0,1
+UK,Vistara,206,133,43,30
+QP,Akasa Air,122,109,5,8
+QP,Akasa Air,131,101,9,21
+6E,IndiGo,205,205,0,0
+6E,IndiGo,221,192,1,28
+QP,Akasa Air,128,64,62,2
+UK,Vistara,283,276,5,2
+6E,IndiGo,54,53,1,0
+UK,Vistara,283,268,8,7
+SG,SpiceJet,187,139,35,13
+SG,SpiceJet,188,157,31,0
+UK,Vistara,289,248,22,19
+AI,Air India,80,79,1,0
+QP,Akasa Air,225,126,2,97
+AI,Air India,149,98,2,49
+6E,IndiGo,209,139,20,50
+UK,Vistara,237,191,41,5
+6E,IndiGo,291,262,11,18
+QP,Akasa Air,138,109,0,29
+SG,SpiceJet,206,127,24,55
+SG,SpiceJet,228,125,52,51
+SG,SpiceJet,118,64,35,19
+SG,SpiceJet,130,112,15,3
+QP,Akasa Air,101,57,30,14
+AI,Air India,121,77,11,33
+SG,SpiceJet,147,113,27,7
+AI,Air India,249,140,68,41
+6E,IndiGo,102,69,24,9
+SG,SpiceJet,51,45,3,3
+AI,Air India,145,128,14,3
+SG,SpiceJet,61,36,11,14
+UK,Vistara,269,191,13,65
+QP,Akasa Air,70,44,6,20
+6E,IndiGo,271,138,108,25
+6E,IndiGo,291,242,3,46
+6E,IndiGo,96,96,0,0
+UK,Vistara,156,110,19,27
+6E,IndiGo,149,76,58,15
+SG,SpiceJet,56,48,8,0
+6E,IndiGo,78,47,17,14
+6E,IndiGo,146,98,31,17
+UK,Vistara,164,104,47,13
+6E,IndiGo,86,77,5,4
+QP,Akasa Air,96,69,3,24
+SG,SpiceJet,99,66,20,13
+QP,Akasa Air,268,201,5,62
+AI,Air India,256,255,1,0
+UK,Vistara,120,91,20,9
+SG,SpiceJet,255,195,56,4
+SG,SpiceJet,186,153,4,29
+AI,Air India,162,152,1,9
+6E,IndiGo,300,278,5,17
+QP,Akasa Air,142,92,48,2
+UK,Vistara,281,202,15,64
+6E,IndiGo,267,237,6,24
+AI,Air India,284,167,43,74
+AI,Air India,282,163,30,89
+6E,IndiGo,156,135,9,12
+SG,SpiceJet,296,208,49,39
+AI,Air India,147,121,13,13
+SG,SpiceJet,205,168,3,34
+UK,Vistara,104,58,19,27
+QP,Akasa Air,281,280,1,0
+6E,IndiGo,281,140,32,109
+6E,IndiGo,265,200,20,45
+UK,Vistara,257,210,34,13
+SG,SpiceJet,299,159,86,54
+QP,Akasa Air,173,145,9,19
+AI,Air India,119,107,5,7
+6E,IndiGo,93,69,11,13
+6E,IndiGo,223,152,5,66
+SG,SpiceJet,59,58,1,0
+AI,Air India,273,235,24,14
+6E,IndiGo,174,87,50,37
+AI,Air India,235,165,41,29
+UK,Vistara,157,111,9,37
+SG,SpiceJet,245,170,7,68
+SG,SpiceJet,180,170,1,9
+6E,IndiGo,237,213,16,8
+6E,IndiGo,292,274,6,12
+QP,Akasa Air,138,84,25,29
+6E,IndiGo,164,96,46,22
+AI,Air India,190,177,4,9
+QP,Akasa Air,173,98,63,12
+AI,Air India,268,246,11,11
+QP,Akasa Air,113,103,2,8
+6E,IndiGo,250,194,19,37
+AI,Air India,55,34,14,7
+UK,Vistara,159,123,30,6
+AI,Air India,276,243,10,23
+SG,SpiceJet,125,87,7,31
+SG,SpiceJet,275,272,3,0
+QP,Akasa Air,177,125,28,24
+6E,IndiGo,132,80,46,6
+AI,Air India,169,159,0,10
+AI,Air India,107,54,34,19
+SG,SpiceJet,68,35,10,23
+SG,SpiceJet,159,141,10,8
+AI,Air India,284,149,90,45
+AI,Air India,115,93,0,22
+QP,Akasa Air,247,133,68,46
+SG,SpiceJet,84,63,10,11
+SG,SpiceJet,175,157,7,11
+SG,SpiceJet,84,62,6,16
+UK,Vistara,151,130,11,10
+QP,Akasa Air,161,88,51,22
+SG,SpiceJet,198,155,34,9
+QP,Akasa Air,285,178,52,55
+SG,SpiceJet,217,112,88,17
+QP,Akasa Air,113,57,31,25
+SG,SpiceJet,149,82,27,40
+AI,Air India,207,113,10,84
+UK,Vistara,59,40,17,2
+6E,IndiGo,264,201,20,43
+SG,SpiceJet,82,64,12,6
+QP,Akasa Air,103,92,10,1
+UK,Vistara,248,133,3,112
+SG,SpiceJet,266,244,12,10
+6E,IndiGo,230,159,64,7
+UK,Vistara,236,141,92,3
+SG,SpiceJet,252,170,50,32
+QP,Akasa Air,62,42,20,0
+UK,Vistara,63,34,5,24
+AI,Air India,112,84,23,5
+QP,Akasa Air,96,70,12,14
+AI,Air India,50,30,1,19
+6E,IndiGo,243,179,0,64
+AI,Air India,114,79,3,32
+SG,SpiceJet,217,204,0,13
+QP,Akasa Air,131,71,33,27
+UK,Vistara,245,180,22,43
+QP,Akasa Air,196,126,27,43
+UK,Vistara,140,135,2,3
+UK,Vistara,166,155,11,0
+AI,Air India,226,131,29,66
+AI,Air India,154,92,8,54
+6E,IndiGo,271,252,13,6
+AI,Air India,133,131,1,1
+SG,SpiceJet,167,84,73,10
+SG,SpiceJet,182,160,9,13
+UK,Vistara,204,192,7,5
+SG,SpiceJet,115,85,27,3
+UK,Vistara,138,78,33,27
+UK,Vistara,57,55,0,2
+SG,SpiceJet,286,178,34,74
+6E,IndiGo,210,200,4,6
+SG,SpiceJet,82,44,35,3
+UK,Vistara,191,156,15,20
+AI,Air India,287,261,14,12
+AI,Air India,133,81,33,19
+6E,IndiGo,237,179,31,27
+QP,Akasa Air,247,184,7,56
+6E,IndiGo,234,151,75,8
+6E,IndiGo,186,124,16,46
+UK,Vistara,243,234,7,2
+UK,Vistara,57,46,5,6
+SG,SpiceJet,204,161,5,38
+6E,IndiGo,187,112,7,68
+UK,Vistara,119,87,22,10
+QP,Akasa Air,276,142,52,82
+6E,IndiGo,119,72,32,15
+SG,SpiceJet,265,151,51,63
+6E,IndiGo,284,173,0,111
+SG,SpiceJet,57,53,1,3
+QP,Akasa Air,123,118,3,2
+AI,Air India,139,137,0,2
+QP,Akasa Air,130,82,31,17
+SG,SpiceJet,204,159,31,14
+UK,Vistara,52,28,10,14
+AI,Air India,145,141,4,0
+UK,Vistara,141,129,6,6
+SG,SpiceJet,218,112,62,44
+AI,Air India,115,57,41,17
+UK,Vistara,80,71,0,9
+UK,Vistara,68,56,1,11
+AI,Air India,85,52,6,27
+6E,IndiGo,243,207,32,4
+AI,Air India,240,161,8,71
+UK,Vistara,293,212,38,43
+QP,Akasa Air,54,48,4,2
+6E,IndiGo,295,224,13,58
+QP,Akasa Air,177,161,10,6
+SG,SpiceJet,202,163,4,35
+SG,SpiceJet,98,54,10,34
+6E,IndiGo,138,82,25,31
+SG,SpiceJet,167,91,46,30
+UK,Vistara,196,103,24,69
+UK,Vistara,231,178,31,22
+UK,Vistara,80,47,9,24
+AI,Air India,137,68,24,45
+QP,Akasa Air,173,141,2,30
+AI,Air India,273,230,7,36
+UK,Vistara,56,48,5,3
+UK,Vistara,226,119,78,29
+UK,Vistara,287,216,33,38
+AI,Air India,205,180,25,0
+UK,Vistara,263,174,83,6
+AI,Air India,206,157,11,38
+UK,Vistara,163,139,11,13
+QP,Akasa Air,288,257,12,19
+AI,Air India,269,211,7,51
+AI,Air India,57,30,15,12
+SG,SpiceJet,242,171,58,13
+SG,SpiceJet,89,46,33,10
+AI,Air India,96,63,22,11
+SG,SpiceJet,246,163,49,34
+UK,Vistara,57,55,1,1
+AI,Air India,56,29,27,0
+QP,Akasa Air,65,42,4,19
+AI,Air India,273,270,1,2
+UK,Vistara,257,240,5,12
+QP,Akasa Air,289,272,15,2
+QP,Akasa Air,142,129,11,2
+6E,IndiGo,51,26,12,13
+AI,Air India,229,201,12,16
+6E,IndiGo,184,114,14,56
+AI,Air India,272,139,55,78
+QP,Akasa Air,278,246,15,17
+AI,Air India,257,200,15,42
+AI,Air India,260,225,27,8
+QP,Akasa Air,256,188,51,17
+UK,Vistara,170,120,19,31
+UK,Vistara,114,65,47,2
+6E,IndiGo,88,61,8,19
+6E,IndiGo,283,255,22,6
+SG,SpiceJet,95,52,5,38
+6E,IndiGo,197,109,37,51
+6E,IndiGo,190,142,11,37
+AI,Air India,111,72,31,8
+SG,SpiceJet,280,206,11,63
+AI,Air India,249,215,19,15
+SG,SpiceJet,82,50,25,7
+SG,SpiceJet,103,93,5,5
+UK,Vistara,273,219,23,31
+6E,IndiGo,55,50,1,4
+SG,SpiceJet,145,134,2,9
+UK,Vistara,85,82,1,2
+SG,SpiceJet,114,96,15,3
+UK,Vistara,72,46,13,13
+SG,SpiceJet,177,134,22,21
+SG,SpiceJet,240,229,0,11
+6E,IndiGo,133,130,2,1
+QP,Akasa Air,250,161,38,51
+UK,Vistara,102,52,34,16
+AI,Air India,299,284,9,6
+UK,Vistara,277,202,42,33
+AI,Air India,94,61,28,5
+SG,SpiceJet,287,180,6,101
+UK,Vistara,66,66,0,0
+QP,Akasa Air,121,82,38,1
+6E,IndiGo,130,71,58,1
+UK,Vistara,65,55,10,0
+SG,SpiceJet,115,104,11,0
+QP,Akasa Air,123,93,7,23
+QP,Akasa Air,250,244,4,2
+AI,Air India,215,110,21,84
+AI,Air India,256,187,34,35
+QP,Akasa Air,62,61,0,1
+AI,Air India,118,61,25,32
+SG,SpiceJet,119,105,14,0
+QP,Akasa Air,92,56,14,22
+6E,IndiGo,191,142,25,24
+SG,SpiceJet,298,265,3,30
+SG,SpiceJet,159,106,24,29
+UK,Vistara,160,142,1,17
+QP,Akasa Air,251,189,62,0
+QP,Akasa Air,65,58,4,3
+SG,SpiceJet,193,153,12,28
+QP,Akasa Air,190,103,32,55
+6E,IndiGo,202,129,51,22
+AI,Air India,111,98,8,5
+6E,IndiGo,150,102,41,7
+QP,Akasa Air,242,127,103,12
+6E,IndiGo,288,233,7,48
+AI,Air India,201,117,7,77
+QP,Akasa Air,122,101,16,5
+SG,SpiceJet,253,158,72,23
+6E,IndiGo,237,207,23,7
+QP,Akasa Air,167,127,10,30
+QP,Akasa Air,198,148,15,35
+UK,Vistara,114,60,48,6
+UK,Vistara,300,175,48,77
+6E,IndiGo,119,85,5,29
+UK,Vistara,246,160,30,56
+UK,Vistara,236,194,6,36
+6E,IndiGo,200,158,0,42
+SG,SpiceJet,77,75,2,0
+UK,Vistara,247,144,33,70
+AI,Air India,246,174,31,41
+QP,Akasa Air,130,102,22,6
+SG,SpiceJet,63,53,7,3
+QP,Akasa Air,164,112,51,1
+UK,Vistara,268,255,3,10
+AI,Air India,282,281,0,1
+UK,Vistara,195,155,22,18
+6E,IndiGo,87,85,0,2
+SG,SpiceJet,238,144,78,16
+6E,IndiGo,143,85,37,21
+QP,Akasa Air,104,70,2,32
+6E,IndiGo,203,146,10,47
+AI,Air India,137,136,1,0
+SG,SpiceJet,112,81,18,13
+SG,SpiceJet,159,120,18,21
+SG,SpiceJet,106,90,16,0
+UK,Vistara,114,57,33,24
+SG,SpiceJet,266,206,14,46
+QP,Akasa Air,257,195,11,51
+AI,Air India,87,69,8,10
+QP,Akasa Air,151,92,39,20
+AI,Air India,182,133,18,31
+UK,Vistara,290,249,0,41
+UK,Vistara,300,289,2,9
+UK,Vistara,50,39,5,6
+AI,Air India,292,239,16,37
+QP,Akasa Air,127,94,27,6
+SG,SpiceJet,236,159,25,52
+QP,Akasa Air,74,54,1,19
+QP,Akasa Air,298,295,0,3
+SG,SpiceJet,182,144,37,1
+SG,SpiceJet,216,132,65,19
+QP,Akasa Air,176,108,18,50
+UK,Vistara,179,156,20,3
+AI,Air India,261,146,81,34
+QP,Akasa Air,132,132,0,0
+UK,Vistara,210,155,11,44
+AI,Air India,68,44,18,6
+UK,Vistara,266,181,29,56
+6E,IndiGo,114,75,0,39
+UK,Vistara,262,137,73,52
+UK,Vistara,228,225,3,0
+AI,Air India,94,55,30,9
+SG,SpiceJet,52,46,4,2
+6E,IndiGo,258,254,2,2
+UK,Vistara,73,71,2,0
+QP,Akasa Air,61,52,8,1
+SG,SpiceJet,196,187,8,1
+AI,Air India,118,85,19,14
+QP,Akasa Air,240,142,1,97
+6E,IndiGo,121,89,9,23
+SG,SpiceJet,210,117,5,88
+UK,Vistara,254,167,25,62
+SG,SpiceJet,228,123,89,16
+UK,Vistara,67,54,7,6
+6E,IndiGo,166,146,2,18
+QP,Akasa Air,206,132,3,71
+AI,Air India,110,83,22,5
+SG,SpiceJet,165,133,26,6
+6E,IndiGo,68,60,0,8
+6E,IndiGo,188,103,8,77
+UK,Vistara,54,29,5,20
+SG,SpiceJet,58,47,5,6
+SG,SpiceJet,184,131,26,27
+AI,Air India,282,183,3,96
+QP,Akasa Air,127,94,7,26
+UK,Vistara,73,48,12,13
+QP,Akasa Air,240,232,2,6
+6E,IndiGo,94,79,0,15
+6E,IndiGo,229,185,15,29
+UK,Vistara,246,240,3,3
+QP,Akasa Air,164,144,15,5
+UK,Vistara,263,156,41,66
+6E,IndiGo,286,217,13,56
+6E,IndiGo,129,115,5,9
+UK,Vistara,131,76,50,5
+UK,Vistara,296,268,11,17
+QP,Akasa Air,175,155,6,14
+AI,Air India,241,206,2,33
+6E,IndiGo,99,96,1,2
+SG,SpiceJet,167,159,3,5
+SG,SpiceJet,279,157,90,32
+QP,Akasa Air,72,50,10,12
+UK,Vistara,140,112,19,9
+AI,Air India,106,90,14,2
+6E,IndiGo,166,89,74,3
+AI,Air India,209,149,35,25
+6E,IndiGo,208,146,58,4
+AI,Air India,224,118,10,96
+UK,Vistara,173,104,53,16
+AI,Air India,123,99,18,6
+6E,IndiGo,61,48,10,3
+6E,IndiGo,55,46,7,2
+SG,SpiceJet,110,64,9,37
+6E,IndiGo,186,119,32,35
+6E,IndiGo,228,179,3,46
+AI,Air India,254,165,43,46
+AI,Air India,91,65,13,13
+SG,SpiceJet,247,238,9,0
+SG,SpiceJet,176,154,11,11
+SG,SpiceJet,186,153,9,24
+6E,IndiGo,146,119,17,10
+SG,SpiceJet,120,119,1,0
+UK,Vistara,105,75,22,8
+SG,SpiceJet,109,88,21,0
+UK,Vistara,228,147,54,27
+QP,Akasa Air,205,205,0,0
+UK,Vistara,101,95,1,5
+QP,Akasa Air,120,101,13,6
+UK,Vistara,239,167,65,7
+SG,SpiceJet,286,240,5,41
+QP,Akasa Air,179,149,17,13
+SG,SpiceJet,292,261,25,6
+SG,SpiceJet,58,55,3,0
+AI,Air India,278,157,117,4
+QP,Akasa Air,299,232,64,3
+AI,Air India,117,105,3,9
+UK,Vistara,132,99,24,9
+6E,IndiGo,101,66,30,5
+AI,Air India,250,190,8,52
+UK,Vistara,136,82,27,27
+SG,SpiceJet,53,35,7,11
+UK,Vistara,219,168,33,18
+UK,Vistara,170,97,45,28
+6E,IndiGo,159,146,10,3
+SG,SpiceJet,134,130,1,3
+SG,SpiceJet,94,63,14,17
+6E,IndiGo,295,187,41,67
+QP,Akasa Air,246,225,1,20
+AI,Air India,110,70,33,7
+QP,Akasa Air,123,64,32,27
+SG,SpiceJet,57,44,9,4
+AI,Air India,253,191,2,60
+AI,Air India,118,74,26,18
+6E,IndiGo,237,199,15,23
+QP,Akasa Air,279,249,16,14
+QP,Akasa Air,100,84,16,0
+AI,Air India,116,110,0,6
+6E,IndiGo,199,181,11,7
+UK,Vistara,131,105,12,14
+UK,Vistara,172,107,6,59
+6E,IndiGo,82,80,2,0
+AI,Air India,208,173,3,32
+AI,Air India,136,72,16,48
+QP,Akasa Air,92,59,21,12
+6E,IndiGo,278,167,27,84
+6E,IndiGo,163,160,0,3
+6E,IndiGo,98,79,13,6
+UK,Vistara,104,64,32,8
+AI,Air India,104,85,2,17
+SG,SpiceJet,250,145,49,56
+QP,Akasa Air,136,77,54,5
+SG,SpiceJet,137,84,16,37
+AI,Air India,151,96,6,49
+AI,Air India,103,52,49,2
+AI,Air India,178,112,17,49
+6E,IndiGo,263,260,1,2
+AI,Air India,113,70,31,12
+SG,SpiceJet,249,171,62,16
+UK,Vistara,280,239,18,23
+UK,Vistara,95,65,20,10
+SG,SpiceJet,162,121,35,6
+SG,SpiceJet,186,128,6,52
+6E,IndiGo,240,198,30,12
+AI,Air India,98,74,20,4
+QP,Akasa Air,178,138,4,36
+QP,Akasa Air,130,121,8,1
+AI,Air India,175,87,15,73
+SG,SpiceJet,240,228,1,11
+UK,Vistara,181,146,17,18
+6E,IndiGo,256,256,0,0
+UK,Vistara,295,282,0,13
+SG,SpiceJet,161,126,23,12
+UK,Vistara,157,129,10,18
+QP,Akasa Air,215,192,23,0
+UK,Vistara,172,147,14,11
+6E,IndiGo,214,161,48,5
+AI,Air India,173,171,1,1
+QP,Akasa Air,145,140,4,1
+SG,SpiceJet,119,64,32,23
+UK,Vistara,119,92,18,9
+QP,Akasa Air,101,72,22,7
+SG,SpiceJet,160,125,12,23
+6E,IndiGo,157,83,65,9
+UK,Vistara,184,167,0,17
+QP,Akasa Air,141,93,26,22
+QP,Akasa Air,146,97,26,23
+6E,IndiGo,223,195,22,6
+AI,Air India,234,146,11,77
+QP,Akasa Air,92,88,2,2
+6E,IndiGo,91,73,5,13
+UK,Vistara,165,91,52,22
+UK,Vistara,243,189,38,16
+6E,IndiGo,117,74,13,30
+QP,Akasa Air,204,166,9,29
+QP,Akasa Air,142,120,22,0
+6E,IndiGo,209,209,0,0
+UK,Vistara,276,242,31,3
+SG,SpiceJet,233,183,11,39
+6E,IndiGo,60,56,3,1
+QP,Akasa Air,191,117,22,52
+SG,SpiceJet,274,247,20,7
+6E,IndiGo,60,32,21,7
+6E,IndiGo,89,65,1,23
+QP,Akasa Air,67,51,12,4
+AI,Air India,261,191,41,29
+SG,SpiceJet,219,207,1,11
+SG,SpiceJet,184,149,4,31
+AI,Air India,71,46,22,3
+SG,SpiceJet,118,61,18,39
+UK,Vistara,234,201,0,33
+SG,SpiceJet,281,147,102,32
+6E,IndiGo,186,173,0,13
+6E,IndiGo,122,95,3,24
+SG,SpiceJet,134,79,1,54
+SG,SpiceJet,104,67,34,3
+UK,Vistara,157,91,31,35
+AI,Air India,117,87,26,4
+UK,Vistara,180,166,0,14
+SG,SpiceJet,191,156,16,19
+SG,SpiceJet,62,42,5,15
+QP,Akasa Air,161,156,3,2
+UK,Vistara,215,156,28,31
+6E,IndiGo,300,210,52,38
+UK,Vistara,223,113,37,73
+AI,Air India,97,64,19,14
+6E,IndiGo,250,171,58,21
+6E,IndiGo,71,36,34,1
+SG,SpiceJet,175,110,50,15
+UK,Vistara,149,75,71,3
+6E,IndiGo,216,177,8,31
+6E,IndiGo,255,128,46,81
+6E,IndiGo,280,176,76,28
+SG,SpiceJet,181,148,5,28
+UK,Vistara,220,115,95,10
+6E,IndiGo,223,175,45,3
+6E,IndiGo,292,270,21,1
+6E,IndiGo,181,118,7,56
+6E,IndiGo,114,94,5,15
+6E,IndiGo,76,68,3,5
+SG,SpiceJet,191,97,14,80
+QP,Akasa Air,142,85,14,43
+SG,SpiceJet,63,48,15,0
+QP,Akasa Air,201,163,17,21
+QP,Akasa Air,51,48,1,2
+6E,IndiGo,111,106,2,3
+SG,SpiceJet,193,145,35,13
+AI,Air India,143,87,56,0
+AI,Air India,110,55,44,11
+UK,Vistara,271,163,16,92
+UK,Vistara,155,123,4,28
+AI,Air India,283,144,134,5
+UK,Vistara,125,87,25,13
+SG,SpiceJet,155,90,50,15
+AI,Air India,155,99,6,50
+SG,SpiceJet,215,112,9,94
+QP,Akasa Air,138,132,5,1
+SG,SpiceJet,138,89,30,19
+QP,Akasa Air,216,206,1,9
+SG,SpiceJet,244,127,14,103
+SG,SpiceJet,153,81,49,23
+AI,Air India,79,69,2,8
+AI,Air India,201,160,19,22
+UK,Vistara,160,118,40,2
+AI,Air India,159,112,28,19
+AI,Air India,280,272,4,4
+AI,Air India,142,72,43,27
+UK,Vistara,225,165,52,8
+UK,Vistara,285,237,20,28
+QP,Akasa Air,242,180,3,59
+QP,Akasa Air,171,170,0,1
+UK,Vistara,131,112,8,11
+UK,Vistara,108,59,10,39
+QP,Akasa Air,226,215,8,3
