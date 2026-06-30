@@ -10,12 +10,12 @@ The project integrates multiple datasets, including flight delay and performance
 To use data analytics and visualization techniques to improve airport operational efficiency, identify delay patterns, and support informed decision-making through an interactive Power BI dashboard.`
 
 ## Key Features
-Flight Delay & On-Time Performance Analysis
-Airline Performance Dashboard
-Weather Impact on Flight Operations
-Airport Operational Insights
-Interactive Filters & Slicers
-KPI Cards and Trend Analysis
+- Flight Delay & On-Time Performance Analysis
+- Airline Performance Dashboard
+- Weather Impact on Flight Operations
+- Airport Operational Insights
+- Interactive Filters & Slicers
+- KPI Cards and Trend Analysis
 
 ## Tools & Technologies
 - Power BI 
@@ -35,12 +35,12 @@ KPI Cards and Trend Analysis
 - <a href="https://github.com/komaldongare207/Airport-Management-Dashboard/blob/main/Airport_Management_2025.pbix">Dashboard
 
 ## Dashboard Insights
-Total Flights
-Average Delay
-On-Time Performance
-Airline-wise Analysis
-Weather Impact
-Monthly & Yearly Trends
+- Total Flights
+- Average Delay
+- On-Time Performance
+- Airline-wise Analysis
+- Weather Impact
+- Monthly & Yearly Trends
 
 ## Author 
 Komal Dongare
