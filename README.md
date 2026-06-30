@@ -33,7 +33,7 @@ To use data analytics and visualization techniques to improve airport operationa
 - <a href="https://github.com/komaldongare207/Airport-Management-Dashboard/blob/main/india_weather_2025.csv">India_weather_2025
 
 ## Project File
-- <a href="https://github.com/komaldongare207/Airport-Management-Dashboard/blob/main/Airport_Management_2025.pbix">Dashboard
+- <a href="https://github.com/komaldongare207/Airport-Management-Dashboard/blob/main/Airport_Management_2025.pbix">Airport_Management_2025.pbix
 
 ## Dashboard Insights
 - Total Flights
