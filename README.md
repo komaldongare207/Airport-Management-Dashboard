@@ -7,7 +7,7 @@ The project integrates multiple datasets, including flight delay and performance
 - <a href="https://github.com/komaldongare207/Airport-Management-Dashboard/blob/main/Airport_Management_Dashboard.png">Airport_Management_Dashboard.png
 
 ## Project Objective
-To use data analytics and visualization techniques to improve airport operational efficiency, identify delay patterns, and support informed decision-making through an interactive Power BI dashboard.`
+To use data analytics and visualization techniques to improve airport operational efficiency, identify delay patterns, and support informed decision-making through an interactive Power BI dashboard.
 
 ## Key Features
 - Flight Delay & On-Time Performance Analysis
