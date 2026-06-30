@@ -4,7 +4,8 @@ This project presents an Airport Management Dashboard developed using Power BI t
 The project integrates multiple datasets, including flight delay and performance data, airline information, and weather data, to identify operational trends and improve airport management. Interactive visualizations help monitor key performance indicators (KPIs), analyze delay patterns, evaluate airline performance, and understand the influence of weather on airport operations.
 
 ## Dashboard Preview
-- <a href="https://github.com/komaldongare207/Airport-Management-Dashboard/blob/main/Airport_Management_Dashboard.png">Airport_Management_Dashboard.png
+<img width="1435" height="799" alt="Airport_Management_Dashboard" src="https://github.com/user-attachments/assets/f9c2d765-714c-431e-a871-0ebfb51dc5e2" />
+
 
 ## Project Objective
 To use data analytics and visualization techniques to improve airport operational efficiency, identify delay patterns, and support informed decision-making through an interactive Power BI dashboard.
